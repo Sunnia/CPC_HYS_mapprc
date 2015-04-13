@@ -88,6 +88,7 @@ public class MapsActivity extends FragmentActivity implements LocationListener{
      */
     private void setUpMap() {
         mMap.addMarker(new MarkerOptions().position(new LatLng(0, 0)).title("Marker"));
+        mMap.addMarker(new MarkerOptions().position(new LatLng(23.547795,120.816900)).title("Marker"));
 
         //Set to go User's location
         mMap.setMyLocationEnabled(true);
@@ -96,7 +97,7 @@ public class MapsActivity extends FragmentActivity implements LocationListener{
         mMap.moveCamera(CameraUpdateFactory.newLatLngZoom(new LatLng(23.547795,120.816900), 7));
 
 
-
+        //animate to cue location
         locManager = (LocationManager) getSystemService(Context.LOCATION_SERVICE);
         //Criteria criteria = new Criteria();                                           //Criteria curlocation feature
         //String provider = locManager.getBestProvider(criteria,true);                  //Criteria curlocation feature
@@ -106,7 +107,16 @@ public class MapsActivity extends FragmentActivity implements LocationListener{
         if (location!=null) {
             Log.w("setUpMap",location.toString());
             LatLng currentlocation = new LatLng(location.getLatitude(), location.getLongitude());
-            mMap.animateCamera(CameraUpdateFactory.newLatLngZoom(currentlocation, 14));
+            mMap.animateCamera(CameraUpdateFactory.newLatLngZoom(currentlocation, 14),2000,new MapCancelableCallback());
+        }else{
+            locManager.requestLocationUpdates(LocationManager.NETWORK_PROVIDER, 0,0, (android.location.LocationListener) this);
+            location = locManager.getLastKnownLocation(LocationManager.NETWORK_PROVIDER);
+            if (location!=null) {
+                Log.w("setUpMap",location.toString());
+                LatLng currentlocation = new LatLng(location.getLatitude(), location.getLongitude());
+                mMap.animateCamera(CameraUpdateFactory.newLatLngZoom(currentlocation, 14),2000,new MapCancelableCallback());
+            }
+
         }
     }
 
