@@ -1,6 +1,8 @@
 package com.example.michael.mapprc;
 
 import android.content.Context;
+import android.content.res.XmlResourceParser;
+import android.content.res.Resources;
 import android.location.Criteria;
 import android.location.Location;
 import android.location.LocationListener;
@@ -15,6 +17,8 @@ import com.google.android.gms.maps.SupportMapFragment;
 import com.google.android.gms.maps.model.LatLng;
 import com.google.android.gms.maps.model.MarkerOptions;
 
+import org.xmlpull.v1.XmlPullParser;
+
 import java.util.ArrayList;
 import java.util.List;
 
@@ -23,20 +27,28 @@ public class MapsActivity extends FragmentActivity implements LocationListener{
     private GoogleMap mMap; // Might be null if Google Play services APK is not available.
 
 
-    //private List<Station> station=new ArrayList<Station>();
+    private List<Station> station=new ArrayList<Station>();
     private LocationManager locManager;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_maps);
-        setUpMapIfNeeded();
+        try {
+            setUpMapIfNeeded();
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
     }
 
     @Override
     protected void onResume() {
         super.onResume();
-        setUpMapIfNeeded();
+        try {
+            setUpMapIfNeeded();
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
         /*try {
             locManager = (LocationManager) getSystemService(Context.LOCATION_SERVICE);
             locManager.requestLocationUpdates(LocationManager.GPS_PROVIDER, 0,
@@ -67,7 +79,7 @@ public class MapsActivity extends FragmentActivity implements LocationListener{
      * stopped or paused), {@link #onCreate(Bundle)} may not be called again so we should call this
      * method in {@link #onResume()} to guarantee that it will be called.
      */
-    private void setUpMapIfNeeded() {
+    private void setUpMapIfNeeded() throws Exception {
         // Do a null check to confirm that we have not already instantiated the map.
         if (mMap == null) {
             // Try to obtain the map from the SupportMapFragment.
@@ -86,9 +98,20 @@ public class MapsActivity extends FragmentActivity implements LocationListener{
      * <p/>
      * This should only be called once and when we are sure that {@link #mMap} is not null.
      */
-    private void setUpMap() {
-        mMap.addMarker(new MarkerOptions().position(new LatLng(0, 0)).title("Marker"));
-        mMap.addMarker(new MarkerOptions().position(new LatLng(23.547795,120.816900)).title("Marker"));
+    private void setUpMap() throws Exception {
+        //mMap.addMarker(new MarkerOptions().position(new LatLng(0, 0)).title("Marker"));
+        //mMap.addMarker(new MarkerOptions().position(new LatLng(23.547795,120.816900)).title("Marker"));
+        Resources res = this.getResources();
+        XmlResourceParser xrp = res.getXml(R.xml.gasstation);
+        station = UseXmlStation.ReadStationXML((XmlPullParser) xrp);
+        for (int i = 0; i < station.size(); i++) {
+            float lat = station.get(i).getLatitude();
+            float longt = station.get(i).getLongtitude();
+            String tit = station.get(i).getname();
+            //String dbgstr
+            mMap.addMarker(new MarkerOptions().position(new LatLng(lat, longt)).title(tit));
+        }
+
 
         //Set to go User's location
         mMap.setMyLocationEnabled(true);
