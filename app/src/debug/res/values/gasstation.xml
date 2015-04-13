@@ -1,0 +1,812 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources><entry>
+    <title name="積穗加油站(24)(自助) - 汽油92、95、98(24H)"></title>
+    <address  area="新北市中和區" name="新北市中和區中山路二段550號"></address>
+    <position latitude="25.0051613" longtitude="121.4838742"></position>
+</entry>
+    <entry>
+        <title name="中和加油站(24)(自助) - 汽油92、95、98(24H)"></title>
+        <address  area="新北市中和區" name="新北市中和區中和路260號"></address>
+        <position latitude="24.9995608" longtitude="121.5079068"></position>
+    </entry>
+    <entry>
+        <title name="土城加油站(24)(自助) - 汽油92、95、98(24H)"></title>
+        <address  area="新北市土城區" name="新北市土城區中央路二段280號"></address>
+        <position latitude="24.9740262" longtitude="121.4408301"></position>
+    </entry>
+    <entry>
+        <title name="蘆洲加油站(24)(自助) - 汽油92、95、98(24H)"></title>
+        <address  area="新北市蘆洲區" name="新北市蘆洲區三民路99號"></address>
+        <position latitude="25.0853915" longtitude="121.4731668"></position>
+    </entry>
+    <entry>
+        <title name="蘆洲中山二路加油站(24)(自助) - 汽油92、95、98(24H)"></title>
+        <address  area="新北市蘆洲區" name="新北市蘆洲區中山二路309號"></address>
+        <position latitude="25.0772161" longtitude="121.468768"></position>
+    </entry>
+    <entry>
+        <title name="莒光路加油站(24)(自助) - 汽油92、95、98(24H)"></title>
+        <address  area="台北市中正區" name="台北市中正區莒光路2號"></address>
+        <position latitude="25.0313611" longtitude="121.5070485"></position>
+    </entry>
+    <entry>
+        <title name="環河南路加油站(24)(自助) - 汽油92、95、98(24H)"></title>
+        <address  area="台北市萬華區" name="台北市萬華區環河南路二段274-2號"></address>
+        <position latitude="25.0328631" longtitude="121.4919423"></position>
+    </entry>
+    <entry>
+        <title name="龍安加油站(24)(自助) - 汽油92、95、98(24H)"></title>
+        <address  area="台北市大安區" name="台北市大安區和平東路二段2號"></address>
+        <position latitude="25.025825" longtitude="121.5352653"></position>
+    </entry>
+    <entry>
+        <title name="桂林加油站(7-22)(自助) - 汽油92、95、98(7-22H)"></title>
+        <address  area="台北市萬華區" name="台北市萬華區桂林路53號"></address>
+        <position latitude="25.0381846" longtitude="121.5034007"></position>
+    </entry>
+    <entry>
+        <title name="八堵加油站(7-22)(自助) - 汽油92、95、98(7-22H)"></title>
+        <address  area="基隆市暖暖區" name="基隆市暖暖區八堵路158號"></address>
+        <position latitude="25.1038022" longtitude="121.726067"></position>
+    </entry>
+    <entry>
+        <title name="北寧路加油站(7-23)(自助) - 汽油92、95、98(7-23H)"></title>
+        <address  area="基隆市中正區" name="基隆市中正區北寧路37號"></address>
+        <position latitude="25.1511163" longtitude="121.7738961"></position>
+    </entry>
+    <entry>
+        <title name="建國北路加油站(24)(自助) - 汽油92、95、98(24H)"></title>
+        <address  area="台北市中山區" name="台北市中山區建國北路三段91-1號"></address>
+        <position latitude="25.06535" longtitude="121.5365528"></position>
+    </entry>
+    <entry>
+        <title name="濱江大直橋加油站(24)(自助) - 汽油92、95、98(24H)"></title>
+        <address  area="台北市山區" name="台北市山區濱江街373號"></address>
+        <position latitude="25.0724954" longtitude="121.5521096"></position>
+    </entry>
+    <entry>
+        <title name="大直加油站(24)(自助) - 汽油92、95、98(24H)"></title>
+        <address  area="台北市中山區" name="台北市中山區明水路661號"></address>
+        <position latitude="25.0839753" longtitude="121.550672"></position>
+    </entry>
+    <entry>
+        <title name="林口加油站(24)(自助) - 汽油92、95、98(24H)"></title>
+        <address  area="新竹縣林口區" name="新竹縣林口區中山路1號"></address>
+        <position latitude="25.0776238" longtitude="121.3967561"></position>
+    </entry>
+    <entry>
+        <title name="東湖加油站(7-23)(自助) - 汽油92、95、98(7-23H)"></title>
+        <address  area="台北市內湖區" name="台北市內湖區康寧路三段225號"></address>
+        <position latitude="25.0673241" longtitude="121.611719"></position>
+    </entry>
+    <entry>
+        <title name="汐止加油站(24)(自助) - 汽油92、95、98(24H)"></title>
+        <address  area="新北市汐止區" name="新北市汐止區大同路一段353號"></address>
+        <position latitude="25.0601573" longtitude="121.6399788"></position>
+    </entry>
+    <entry>
+        <title name="內湖麗山街加油站(24)(自助) - 汽油92、95、98(24H)"></title>
+        <address  area="台北市內湖區" name="台北市內湖區內湖路一段362號"></address>
+        <position latitude="25.0812931" longtitude="121.5710997"></position>
+    </entry>
+    <entry>
+        <title name="坪林加油站(7-21)(自助) - 汽油92、95、98(7-21H)"></title>
+        <address  area="新北市坪林區" name="新北市坪林區水柳腳188-1號"></address>
+        <position latitude="24.9354882" longtitude="121.7048453"></position>
+    </entry>
+    <entry>
+        <title name="大埔加油站(7-22)(自助) - 汽油92、95、98(7-22H)"></title>
+        <address  area="新北市三峽區" name="新北市三峽區中正路二段165號"></address>
+        <position latitude="24.9148888" longtitude="121.3661574"></position>
+    </entry>
+    <entry>
+        <title name="鶯桃路加油站(7-21)(自助) - 汽油92、95(7-21H)"></title>
+        <address  area="新北市鶯歌區" name="新北市鶯歌區鶯桃路永新巷1號"></address>
+        <position latitude="24.953062" longtitude="121.3407301"></position>
+    </entry>
+    <entry>
+        <title name="鶯歌加油站(24)(自助) - 汽油92、95、98(24H)"></title>
+        <address  area="新北市鶯歌區" name="新北市鶯歌區文化路152號"></address>
+        <position latitude="24.9503584" longtitude="121.3522958"></position>
+    </entry>
+    <entry>
+        <title name="樹林加油站(24)(自助) - 汽油92、95、98(24H)"></title>
+        <address  area="新北市樹林區" name="新北市樹林區樹新路207號"></address>
+        <position latitude="24.9993462" longtitude="121.4300155"></position>
+    </entry>
+    <entry>
+        <title name="信義路加油站(24)(自助) - 汽油92、95、98(24H)"></title>
+        <address  area="台北市大安區" name="台北市大安區信義路四段374號"></address>
+        <position latitude="25.0329275" longtitude="121.5554785"></position>
+    </entry>
+    <entry>
+        <title name="復興北路加油站(7-23)(自助) - 汽油92、95、98(7-23H)"></title>
+        <address  area="台北市松山區" name="台北市松山區復興北路31號"></address>
+        <position latitude="25.0493855" longtitude="121.5441488"></position>
+    </entry>
+    <entry>
+        <title name="富陽街加油站(24)(自助) - 汽油92、95、98(24H)"></title>
+        <address  area="台北市大安區" name="台北市大安區富陽街129號"></address>
+        <position latitude="25.0191087" longtitude="121.5568947"></position>
+    </entry>
+    <entry>
+        <title name="忠孝東路加油站(24)(自助) - 汽油92、95、98(24H)"></title>
+        <address  area="台北市信義區" name="台北市信義區忠孝東路五段69號"></address>
+        <position latitude="25.0412745" longtitude="121.5668725"></position>
+    </entry>
+    <entry>
+        <title name="民生東路加油站(24)(自助) - 汽油92、95、98(24H)"></title>
+        <address  area="台北市松山區" name="台北市松山區三民路126號"></address>
+        <position latitude="25.0594706" longtitude="121.5636324"></position>
+    </entry>
+    <entry>
+        <title name="光復北路加油站(24)(自助) - 汽油92、95、98(24H)"></title>
+        <address  area="台北市松山區" name="台北市松山區光? 路9號"></address>
+        <position latitude="25.0492997" longtitude="121.557989"></position>
+    </entry>
+    <entry>
+        <title name="中崙加油站(24)(自助) - 汽油92、95、98(24H)"></title>
+        <address  area="台北市中山區" name="台北市中山區八德路二段214號"></address>
+        <position latitude="25.0464673" longtitude="121.5395998"></position>
+    </entry>
+    <entry>
+        <title name="南港加油站(24)(自助) - 汽油92、95、98(24H)"></title>
+        <address  area="台北市南港區" name="台北市南港區南港路二段50號"></address>
+        <position latitude="25.0541277" longtitude="121.6048955"></position>
+    </entry>
+    <entry>
+        <title name="內湖加油站(24)(自助) - 汽油92、95、98(24H)"></title>
+        <address  area="台北市內湖區" name="台北市內湖區民權東路六段50號"></address>
+        <position latitude="25.0683756" longtitude="121.5833949"></position>
+    </entry>
+    <entry>
+        <title name="西湖加油站(7-23)(自助) - 汽油92、95、98(7-23H)"></title>
+        <address  area="台北市內湖區" name="台北市內湖區內湖路一段59號"></address>
+        <position latitude="25.0849838" longtitude="121.5600704"></position>
+    </entry>
+    <entry>
+        <title name="北投加油站(24)(自助) - 汽油92、95、98(24H)"></title>
+        <address  area="台北市北投區" name="台北市北投區承德路七段384號"></address>
+        <position latitude="25.1191873" longtitude="121.5021347"></position>
+    </entry>
+    <entry>
+        <title name="百齡四路加油站(24)(自助) - 汽油92、95、98(24H)"></title>
+        <address  area="台北市北投區" name="台北市北投區承德路六段427號"></address>
+        <position latitude="25.1079864" longtitude="121.511383"></position>
+    </entry>
+    <entry>
+        <title name="福林加油站(24)(自助) - 汽油92、95、98(24H)"></title>
+        <address  area="台北市士林區" name="台北市士林區中山北路五段465號"></address>
+        <position latitude="25.0924511" longtitude="121.5276264"></position>
+    </entry>
+    <entry>
+        <title name="文林路加油站(24)(自助) - 汽油92、95、98(24H)"></title>
+        <address  area="台北市士林區" name="台北市士林區文林路100號"></address>
+        <position latitude="25.08743" longtitude="121.5260171"></position>
+    </entry>
+    <entry>
+        <title name="北投中央北路加油站(24) - 汽油92、95、98(24H)"></title>
+        <address  area="台北市北投區" name="台北市北投區中央北路四段584號"></address>
+        <position latitude="25.1270194" longtitude="121.4663862"></position>
+    </entry>
+    <entry>
+        <title name="泰新加油站(24)(自助) - 汽油92、95、98(24H)"></title>
+        <address  area="新北市泰山區" name="新北市泰山區中山路二段61號"></address>
+        <position latitude="25.0507159" longtitude="121.4378475"></position>
+    </entry>
+    <entry>
+        <title name="泰山加油站(7-22)(自助) - 汽油92、95、98(7-22H)"></title>
+        <address  area="新北市泰山區" name="新北市泰山區泰林路二段424號"></address>
+        <position latitude="25.0643201" longtitude="121.4267754"></position>
+    </entry>
+    <entry>
+        <title name="大豐加油站(24)(自助) - 汽油92、95、98(24H)"></title>
+        <address  area="新北市新店區" name="新北市新店區北新路二段205號"></address>
+        <position latitude="24.978425" longtitude="121.5423893"></position>
+    </entry>
+    <entry>
+        <title name="新店北新路加油站(24)(自助) - 汽油92、95、98、柴油(24H)"></title>
+        <address  area="新北市新店區" name="新北市新店區北新路一段90號"></address>
+        <position latitude="24.9682755" longtitude="121.5418314"></position>
+    </entry>
+    <entry>
+        <title name="萬隆加油站(24)(自助) - 汽油92、95、98(24H)"></title>
+        <address  area="台北市文山區" name="台北市文山區興隆路一段13號"></address>
+        <position latitude="25.0044317" longtitude="121.5392779"></position>
+    </entry>
+    <entry>
+        <title name="木柵加油站(24)(自助) - 汽油92、95、98(24H)"></title>
+        <address  area="台北市文山區" name="台北市文山區木柵路三段2號"></address>
+        <position latitude="24.9886174" longtitude="121.5640186"></position>
+    </entry>
+    <entry>
+        <title name="板橋民族路加油站(24)(自助) - 汽油92、95、98(24H)"></title>
+        <address  area="新北市板橋區" name="新北市板橋區民族路90號"></address>
+        <position latitude="25.0091309" longtitude="121.4635967"></position>
+    </entry>
+    <entry>
+        <title name="埔墘加油站(24) - 汽油92、95、98(24H)"></title>
+        <address  area="新北市板橋區" name="新北市板橋區中山路二段320號"></address>
+        <position latitude="25.0195379" longtitude="121.4808487"></position>
+    </entry>
+    <entry>
+        <title name="三重重新路加油站(24)(自助) - 汽油92、95、98(24H)"></title>
+        <address  area="新北市三重區" name="新北市三重區重新路五段495號"></address>
+        <position latitude="25.0468106" longtitude="121.4725446"></position>
+    </entry>
+    <entry>
+        <title name="保長坑加油站(24)(自助) - 汽油92、95、98(24H)"></title>
+        <address  area="新北市汐止區" name="新北市汐止區大同路三段186-1號"></address>
+        <position latitude="25.0742764" longtitude="121.6743969"></position>
+    </entry>
+    <entry>
+        <title name="土城廣福路加油站(24)(自助) - 汽油92、95、98(24H)"></title>
+        <address  area="新北市土城區" name="新北市土城區四川路1號"></address>
+        <position latitude="24.9960847" longtitude="121.4557861"></position>
+    </entry>
+    <entry>
+        <title name="桃園蘆竹加油站(24)(自助) - 汽油92、95、98(24H)"></title>
+        <address  area="桃園蘆竹鄉" name="桃園蘆竹鄉中正路342號"></address>
+        <position latitude="25.0492353" longtitude="121.2912272"></position>
+    </entry>
+    <entry>
+        <title name="林口工三加油站(24)(自助) - 汽油92、95、98(24H)"></title>
+        <address  area="桃園縣龜山鄉" name="桃園縣龜山鄉文化一路33號"></address>
+        <position latitude="25.0617237" longtitude="121.369934"></position>
+    </entry>
+    <entry>
+        <title name="三民路加油站(24)(自助) - 汽油92、95、98(24H)"></title>
+        <address  area="桃園縣桃園市" name="桃園縣桃園市三民路一段150號"></address>
+        <position latitude="24.9996037" longtitude="121.3204311"></position>
+    </entry>
+    <entry>
+        <title name="春日路加油站(24)(自助) - 汽油92、95、98(24H)"></title>
+        <address  area="桃園縣桃園市" name="桃園縣桃園市春日路971號"></address>
+        <position latitude="25.0105042" longtitude="121.3104104"></position>
+    </entry>
+    <entry>
+        <title name="桃園機場第三加油站(7-21)(自助) - 汽油92、95、98(24H)"></title>
+        <address  area="桃園縣大園鄉" name="桃園縣大園鄉航勤南路2號"></address>
+        <position latitude="25.088932" longtitude="121.249299"></position>
+    </entry>
+    <entry>
+        <title name="中壢工業區加油站(24)(自助) - 汽油92、95、98(24H)"></title>
+        <address  area="桃園縣中壢市" name="桃園縣中壢市中華路二段230號"></address>
+        <position latitude="24.9651642" longtitude="121.2384199"></position>
+    </entry>
+    <entry>
+        <title name="中壢加油站(24)(自助) - 汽油92、95、98(24H)"></title>
+        <address  area="桃園縣中壢市" name="桃園縣中壢市延平路33號"></address>
+        <position latitude="24.9634261" longtitude="121.2326263"></position>
+    </entry>
+    <entry>
+        <title name="新富加油站(24)(自助) - 汽油92、95、98(24H)"></title>
+        <address  area="桃園縣平鎮市" name="桃園縣平鎮市中豐路一段298號"></address>
+        <position latitude="24.9268837" longtitude="121.2129067"></position>
+    </entry>
+    <entry>
+        <title name="龍岡加油站(24)(自助) - 汽油92、95、98(24H)"></title>
+        <address  area="桃園縣中壢市" name="桃園縣中壢市環中東路二段659號"></address>
+        <position latitude="24.9445433" longtitude="121.2298583"></position>
+    </entry>
+    <entry>
+        <title name="中壢工二加油站(24)(自助) - 汽油92、95、98(24H)"></title>
+        <address  area="桃園縣中壢市" name="桃園縣中壢市吉林路37巷15號"></address>
+        <position latitude="24.9795622" longtitude="121.2468957"></position>
+    </entry>
+    <entry>
+        <title name="梅溪加油站(24)(自助) - 汽油92、95、98(24H)"></title>
+        <address  area="桃園縣楊梅市" name="桃園縣楊梅市中山北路一段391號"></address>
+        <position latitude="24.9087519" longtitude="121.159563"></position>
+    </entry>
+    <entry>
+        <title name="龍潭加油站(24)(自助) - 汽油92、95、98(24H)"></title>
+        <address  area="桃園縣龍潭鄉" name="桃園縣龍潭鄉北龍路264號"></address>
+        <position latitude="24.867639" longtitude="121.2172197"></position>
+    </entry>
+    <entry>
+        <title name="北大路加油站(24)(自助) - 汽油92、95、98(24H)"></title>
+        <address  area="新竹市北區" name="新竹市北區北大路374號"></address>
+        <position latitude="24.805326" longtitude="120.9610151"></position>
+    </entry>
+    <entry>
+        <title name="民華加油站(24)(自助) - 汽油92、95、98(24H)"></title>
+        <address  area="新竹市東區" name="新竹市東區中華路二段156-1號"></address>
+        <position latitude="24.8066134" longtitude="120.9786104"></position>
+    </entry>
+    <entry>
+        <title name="香山加油站(7-21)(自助) - 汽油92、95、98(7-21H)"></title>
+        <address  area="新竹市香山區" name="新竹市香山區中華路五段54號"></address>
+        <position latitude="24.7879882" longtitude="120.9275626"></position>
+    </entry>
+    <entry>
+        <title name="竹北加油站(7-22)(自助) - 汽油92、95、98(7-22H)"></title>
+        <address  area="新竹竹北市" name="新竹竹北市中華路439號"></address>
+        <position latitude="24.840774" longtitude="121.0053252"></position>
+    </entry>
+    <entry>
+        <title name="府前站加油站(24)(自助) - 汽油92、95、98(24H)"></title>
+        <address  area="新竹縣竹北市" name="新竹縣竹北市縣政二路112號"></address>
+        <position latitude="24.8239512" longtitude="121.0147666"></position>
+    </entry>
+    <entry>
+        <title name="光明加油站(24)(自助) - 汽油92、95、98(24H)"></title>
+        <address  area="新竹市東區" name="新竹市東區光復路二段1號"></address>
+        <position latitude="24.7912068" longtitude="121.0040592"></position>
+    </entry>
+    <entry>
+        <title name="關東橋加油站(24)(自助) - 汽油92、95、98(24H)"></title>
+        <address  area="新竹市東區" name="新竹市東區光復路一段529號"></address>
+        <position latitude="24.7849626" longtitude="121.0129212"></position>
+    </entry>
+    <entry>
+        <title name="科學園區加油站(24)(自助) - 汽油92、95、98(24H)"></title>
+        <address  area="新北市東區" name="新北市東區工業東二路2-2號"></address>
+        <position latitude="24.7796411" longtitude="121.0047673"></position>
+    </entry>
+    <entry>
+        <title name="關西加油站(7-21)(自助) - 汽油92、95、98(7-21H)"></title>
+        <address  area="新竹縣關西鎮" name="新竹縣關西鎮中豐路二段50號"></address>
+        <position latitude="24.7933955" longtitude="121.1139225"></position>
+    </entry>
+    <entry>
+        <title name="關西服務區加油站(24)(自助) - 汽油92、95、98(24H)"></title>
+        <address  area="新竹縣關西鎮" name="新竹縣關西鎮上三屯14-10號"></address>
+        <position latitude="24.8027296" longtitude="121.1959123"></position>
+    </entry>
+    <entry>
+        <title name="新埔加油站(22-7)(柴) - 汽油92、95、98、柴油(22-7H)"></title>
+        <address  area="新竹縣新埔鎮" name="新竹縣新埔鎮中正路902號"></address>
+        <position latitude="24.8276205" longtitude="121.0687541"></position>
+    </entry>
+    <entry>
+        <title name="東林路加油站(24)(自助) - 汽油92、95、98(24H)"></title>
+        <address  area="新竹縣竹東鎮" name="新竹縣竹東鎮東林路111號"></address>
+        <position latitude="24.7370476" longtitude="121.0924434"></position>
+    </entry>
+    <entry>
+        <title name="竹東加油站(24)(自助) - 汽油92、95、98(24H)"></title>
+        <address  area="新竹縣竹東鎮" name="新竹縣竹東鎮東寧路一段2號"></address>
+        <position latitude="24.7226281" longtitude="121.0962628"></position>
+    </entry>
+    <entry>
+        <title name="北苗加油站(7-21)(自助) - 汽油92、95、98(7-21H)"></title>
+        <address  area="苗栗縣苗栗市" name="苗栗縣苗栗市為公路110號"></address>
+        <position latitude="24.5702786" longtitude="120.8256816"></position>
+    </entry>
+    <entry>
+        <title name="中正路加油站(24)(自助) - 汽油92、95、98(24H)"></title>
+        <address  area="苗栗縣竹南鎮" name="苗栗縣竹南鎮中正路120號"></address>
+        <position latitude="24.683618" longtitude="120.872352"></position>
+    </entry>
+    <entry>
+        <title name="南平加油站(7-21)(自助) - 汽油92、95、98(7-21H)"></title>
+        <address  area="苗栗縣頭份鎮" name="苗栗縣頭份鎮蘆竹路270號"></address>
+        <position latitude="24.6781678" longtitude="120.8844327"></position>
+    </entry>
+    <entry>
+        <title name="車林加油站(7-21)(柴) - 汽油92、95、98、柴油(7-21H)"></title>
+        <address  area="苗栗縣頭份鎮" name="苗栗縣頭份鎮永貞路一段22號"></address>
+        <position latitude="24.6719665" longtitude="120.8828878"></position>
+    </entry>
+    <entry>
+        <title name="自強路加油站(7-21)(柴) - 汽油92、95、98、柴油(7-21H)"></title>
+        <address  area="苗栗縣頭份鎮" name="苗栗縣頭份鎮自強路二段170號"></address>
+        <position latitude="24.6832962" longtitude="120.8950972"></position>
+    </entry>
+    <entry>
+        <title name="苗栗蘆竹加油站(7-21)(自助) - 汽油92、95、98(7-21H)"></title>
+        <address  area="苗栗縣頭份鎮" name="苗栗縣頭份鎮中華路444號"></address>
+        <position latitude="24.6765156" longtitude="120.8957409"></position>
+    </entry>
+    <entry>
+        <title name="竹南加油站(7-21)(自助) - 汽油92、95、98(7-21H)"></title>
+        <address  area="苗栗縣竹南鎮" name="苗栗縣竹南鎮東平路101號"></address>
+        <position latitude="24.684648" longtitude="120.8831452"></position>
+    </entry>
+    <entry>
+        <title name="頭份工業區加油站(7-21)(自助)(柴) - 汽油92、95、98、柴(7-21H)"></title>
+        <address  area="苗栗縣頭份鎮" name="苗栗縣頭份鎮中華路519號"></address>
+        <position latitude="24.6766014" longtitude="120.8955263"></position>
+    </entry>
+    <entry>
+        <title name="頭份加油站(24)(自助) - 汽油92、95、98(24H)"></title>
+        <address  area="苗栗縣頭份鎮" name="苗栗縣頭份鎮自強路2號"></address>
+        <position latitude="24.6904845" longtitude="120.9127139"></position>
+    </entry>
+    <entry>
+        <title name="苑裡加油站(24)(自助) - 汽油92、95、98(24H)"></title>
+        <address  area="苗栗縣苑裡鎮" name="苗栗縣苑裡鎮中山路19號"></address>
+        <position latitude="24.4392152" longtitude="120.6496643"></position>
+    </entry>
+    <entry>
+        <title name="港口加油站(7-21)(自助) - 汽油92、95、98(7-21H)"></title>
+        <address  area="花蓮縣花蓮市" name="花蓮縣花蓮市吉林路2號"></address>
+        <position latitude="23.9972086" longtitude="121.6313099"></position>
+    </entry>
+    <entry>
+        <title name="中華路加油站(7-22)(自助) - 汽油92、95、98(7-22H)"></title>
+        <address  area="花蓮縣花蓮市" name="花蓮縣花蓮市中華路333號"></address>
+        <position latitude="23.9748068" longtitude="121.5973424"></position>
+    </entry>
+    <entry>
+        <title name="南埔加油站(24)(自助) - 汽油92、95、98(24H)"></title>
+        <address  area="花蓮縣吉安鄉" name="花蓮縣吉安鄉中正路二段6號"></address>
+        <position latitude="23.9640779" longtitude="121.5898751"></position>
+    </entry>
+    <entry>
+        <title name="花蓮中山路加油站(24)(自助) - 汽油92、95、98(24H)"></title>
+        <address  area="花蓮縣花蓮市" name="花蓮縣花蓮市中山路752號"></address>
+        <position latitude="23.995964" longtitude="121.5947031"></position>
+    </entry>
+    <entry>
+        <title name="巨豐加油站(7-22)(自助) - 汽油92、95、98(7-22H)"></title>
+        <address  area="花蓮縣吉安鄉" name="花蓮縣吉安鄉和平路一段45號"></address>
+        <position latitude="23.9814801" longtitude="121.5919351"></position>
+    </entry>
+    <entry>
+        <title name="冬山加油站(24)(自助) - 汽油92、95(24H)"></title>
+        <address  area="宜蘭縣冬山鄉" name="宜蘭縣冬山鄉冬山路二段260號"></address>
+        <position latitude="24.6414537" longtitude="121.7868565"></position>
+    </entry>
+    <entry>
+        <title name="礁溪加油站(7-22)(自助) - 汽油92、95、98(7-22H)"></title>
+        <address  area="宜蘭縣礁溪鄉" name="宜蘭縣礁溪鄉礁溪路六段28號"></address>
+        <position latitude="24.8301739" longtitude="121.7776512"></position>
+    </entry>
+    <entry>
+        <title name="蘇澳加油站(7-22)(自助) - 汽油92、95、98(7-22H)"></title>
+        <address  area="宜蘭縣蘇澳鎮" name="宜蘭縣蘇澳鎮中山路一段196號"></address>
+        <position latitude="24.5959635" longtitude="121.8471526"></position>
+    </entry>
+    <entry>
+        <title name="大同加油站(7-22)(自助) - 汽油92、95、98(7-22H)"></title>
+        <address  area="台中市北區" name="台中市北區三民路三段225號"></address>
+        <position latitude="24.1543002" longtitude="120.6855845"></position>
+    </entry>
+    <entry>
+        <title name="昌平路加油站(7-22)(自助) - 汽油92、95、98、柴油7-22H)"></title>
+        <address  area="台中市北屯區" name="台中市北屯區昌平路一段95號"></address>
+        <position latitude="24.1709084" longtitude="120.6911205"></position>
+    </entry>
+    <entry>
+        <title name="東山路加油站(7-22)(自助) - 汽油92、95、98(7-22H)"></title>
+        <address  area="台中市北屯區" name="台中市北屯區東山路一段377-5號"></address>
+        <position latitude="24.1768093" longtitude="120.7280063"></position>
+    </entry>
+    <entry>
+        <title name="北屯加油站(7-22)(自助) - 汽油92、95、98(7-22H)"></title>
+        <address  area="台中市北屯區" name="台中市北屯區北屯路436號"></address>
+        <position latitude="24.1795559" longtitude="120.701034"></position>
+    </entry>
+    <entry>
+        <title name="松竹路加油站(24)(自助) - 汽油92、95、98(24H)"></title>
+        <address  area="台中市北屯區" name="台中市北屯區松竹路二段427號"></address>
+        <position latitude="24.1818733" longtitude="120.6887387"></position>
+    </entry>
+    <entry>
+        <title name="文心路加油站(24)(自助) - 汽油92、95、98(24H)"></title>
+        <address  area="台中市西屯區" name="台中市西屯區文心路三段2號"></address>
+        <position latitude="24.1628189" longtitude="120.6499218"></position>
+    </entry>
+    <entry>
+        <title name="公益路加油站(24)(自助) - 汽油92、95、98(24H)"></title>
+        <address  area="台中市南屯區" name="台中市南屯區公益路二段2號"></address>
+        <position latitude="24.0852494" longtitude="120.6529688"></position>
+    </entry>
+    <entry>
+        <title name="霧峰林森路加油站(24)(自助) - 汽油92、95、98(24H)"></title>
+        <address  area="台中市霧峰區" name="台中市霧峰區林森路455號"></address>
+        <position latitude="24.0610452" longtitude="120.6950473"></position>
+    </entry>
+    <entry>
+        <title name="烏日高鐵加油站(7-21)(自助) - 汽油92、95、98(7-21H)"></title>
+        <address  area="台中市烏日區" name="台中市烏日區建國路265號"></address>
+        <position latitude="24.1091962" longtitude="120.6241082"></position>
+    </entry>
+    <entry>
+        <title name="台中工業區加油站(24)(自助) - 汽油92、95、98(24H)"></title>
+        <address  area="台中市西屯區" name="台中市西屯區台中港路三段119號"></address>
+        <position latitude="24.183311" longtitude="120.6144308"></position>
+    </entry>
+    <entry>
+        <title name="五權西路加油站(24)(自助) - 汽油92、95、98(24H)"></title>
+        <address  area="台中市南屯區" name="台中市南屯區五權西路二段562號"></address>
+        <position latitude="24.1412539" longtitude="120.6414675"></position>
+    </entry>
+    <entry>
+        <title name="翁子加油站(24)(自助) - 汽油92、95、98(24H)"></title>
+        <address  area="台中市豐原區" name="台中市豐原區豐勢路一段588號"></address>
+        <position latitude="24.2597861" longtitude="120.7345723"></position>
+    </entry>
+    <entry>
+        <title name="后里加油站(24)(自助) - 汽油92、95、98(24H)"></title>
+        <address  area="台中市后里區" name="台中市后里區三豐路427號"></address>
+        <position latitude="24.315619" longtitude="120.7239937"></position>
+    </entry>
+    <entry>
+        <title name="大雅中清路加油站(24)(自助) - 汽油92、95、98(24H)"></title>
+        <address  area="台中市大雅區" name="台中市大雅區中清路一段271號"></address>
+        <position latitude="24.2179436" longtitude="120.6486558"></position>
+    </entry>
+    <entry>
+        <title name="石岡豐勢路加油站(24)(自助) - 汽油92、95、98(24H)"></title>
+        <address  area="台中市石岡區" name="台中市石岡區明德路2號"></address>
+        <position latitude="24.2746348" longtitude="120.7817577"></position>
+    </entry>
+    <entry>
+        <title name="卓蘭加油站(7-22)(自助) - 汽油92、95、98(7-22H)"></title>
+        <address  area="苗栗縣卓蘭鎮" name="苗栗縣卓蘭鎮中正西路101號"></address>
+        <position latitude="24.3103618" longtitude="120.8230638"></position>
+    </entry>
+    <entry>
+        <title name="清水加油站(24)(自助) - 汽油92、95、98(24H)"></title>
+        <address  area="台中市.清水區" name="台中市.清水區中山路507-18號"></address>
+        <position latitude="24.2776603" longtitude="120.5784892"></position>
+    </entry>
+    <entry>
+        <title name="青海加油站(24)(自助) - 汽油92、95、98(24H)"></title>
+        <address  area="台中市西屯區" name="台中市西屯區青海路二段211號"></address>
+        <position latitude="24.1713161" longtitude="120.643978"></position>
+    </entry>
+    <entry>
+        <title name="彰化營業處(24)(自助) - 汽油92、95、98(24H)"></title>
+        <address  area="新化縣彰化市" name="新化縣彰化市中山路三段27號"></address>
+        <position latitude="24.0845909" longtitude="120.553973"></position>
+    </entry>
+    <entry>
+        <title name="伸港加油站(7-22) - 汽油92、95、98(7-22H)"></title>
+        <address  area="彰化縣伸港鄉" name="彰化縣伸港鄉新港路95號"></address>
+        <position latitude="24.1436786" longtitude="120.4875945"></position>
+    </entry>
+    <entry>
+        <title name="埔心加油站(24)(自助) - 汽油92、95、98(24H)"></title>
+        <address  area="彰化縣埔心鄉" name="彰化縣埔心鄉員鹿路一段421號"></address>
+        <position latitude="23.9533491" longtitude="120.5535769"></position>
+    </entry>
+    <entry>
+        <title name="員東路加油站(24)(自助) - 汽油92、95、98(24H)"></title>
+        <address  area="彰化縣員林鎮" name="彰化縣員林鎮員東路二段413號"></address>
+        <position latitude="23.9578123" longtitude="120.5793046"></position>
+    </entry>
+    <entry>
+        <title name="二林加油站(24)(自助) - 汽油92、95、98(24H)"></title>
+        <address  area="彰化縣二林鎮" name="彰化縣二林鎮二溪路一段212號"></address>
+        <position latitude="23.9023013" longtitude="120.373311"></position>
+    </entry>
+    <entry>
+        <title name="南投服務區加油站(24)(自助) - 汽油92、95、98(24H)"></title>
+        <address  area="南投縣南投市" name="南投縣南投市南鄉路250巷142弄8號"></address>
+        <position latitude="23.9015288" longtitude="120.7105612"></position>
+    </entry>
+    <entry>
+        <title name="南投三和路加油站(24)(自助) - 汽油92、95、98(24H)"></title>
+        <address  area="南投縣南投市" name="南投縣南投市中興路549號"></address>
+        <position latitude="23.906507" longtitude="120.6905626"></position>
+    </entry>
+    <entry>
+        <title name="國姓加油站(7-22)(自助) - 汽油92、95、98(7-22H)"></title>
+        <address  area="南投縣國姓鄉" name="南投縣國姓鄉中正路一段55號"></address>
+        <position latitude="24.0242452" longtitude="120.8279776"></position>
+    </entry>
+    <entry>
+        <title name="吳鳳路加油站(24)(自助) - 汽油92、95、98(24H)"></title>
+        <address  area="嘉義市東區" name="嘉義市東區吳鳳南路92號"></address>
+        <position latitude="23.4691997" longtitude="120.4541206"></position>
+    </entry>
+    <entry>
+        <title name="民雄加油站(7-21)(自助) - 汽油92、95、98(7-21H)"></title>
+        <address  area="嘉義縣民雄鄉" name="嘉義縣民雄鄉建國路二段329號"></address>
+        <position latitude="23.5507603" longtitude="120.4335426"></position>
+    </entry>
+    <entry>
+        <title name="嘉義信義路加油站(24)(自助) - 汽油92、95、98(24H)"></title>
+        <address  area="嘉義縣西區" name="嘉義縣西區博愛路二段519號"></address>
+        <position latitude="23.4688992" longtitude="120.428822"></position>
+    </entry>
+    <entry>
+        <title name="嘉義高鐵南加油站(7-21)(自助) - 汽油92、95、98(7-21H)"></title>
+        <address  area="嘉義市西區" name="嘉義市西區高鐵大道925號"></address>
+        <position latitude="23.4870739" longtitude="120.4023861"></position>
+    </entry>
+    <entry>
+        <title name="梅山加油站(24)(自助) - 汽油92、95、98(24H)"></title>
+        <address  area="嘉義縣梅山鄉" name="嘉義縣梅山鄉中山路746號"></address>
+        <position latitude="23.589663" longtitude="120.5452298"></position>
+    </entry>
+    <entry>
+        <title name="南靖加油站(7-21)(自助) - 汽油92、95、98(7-21H)"></title>
+        <address  area="嘉義縣水上鄉" name="嘉義縣水上鄉三鎮路101-1號"></address>
+        <position latitude="23.4197612" longtitude="120.3894471"></position>
+    </entry>
+    <entry>
+        <title name="嘉保加油站(7-21)(自助) - 汽油92、95、98(7-21H)"></title>
+        <address  area="嘉義縣太保市" name="嘉義縣太保市嘉朴東路一段116號"></address>
+        <position latitude="23.4592004" longtitude="120.2987456"></position>
+    </entry>
+    <entry>
+        <title name="雅虎站加油站(24)(自助) - 汽油92、95、98(24H)"></title>
+        <address  area="雲林縣斗六市" name="雲林縣斗六市西平路776號"></address>
+        <position latitude="23.7267132" longtitude="120.5238365"></position>
+    </entry>
+    <entry>
+        <title name="義和加油站(24)(自助) - 汽油92、95、98(24H)"></title>
+        <address  area="雲林縣莿桐鄉" name="雲林縣莿桐鄉三和37-5號"></address>
+        <position latitude="23.7750358" longtitude="120.4790973"></position>
+    </entry>
+    <entry>
+        <title name="麥寮加油站(7-21)(自助) - 汽油92、95、98(7-21H)"></title>
+        <address  area="雲林縣麥寮鄉" name="雲林縣麥寮鄉中山路12號"></address>
+        <position latitude="23.7502308" longtitude="120.2612375"></position>
+    </entry>
+    <entry>
+        <title name="崙背加油站(7-21)(自助) - 汽油92、95、98(7-21H)"></title>
+        <address  area="雲林縣崙背鄉" name="雲林縣崙背鄉正義路123號"></address>
+        <position latitude="23.7611313" longtitude="120.3590416"></position>
+    </entry>
+    <entry>
+        <title name="水林加油站(7-21)(自助) - 汽油92、95、98(7-21H)"></title>
+        <address  area="雲林縣水林鄉" name="雲林縣水林鄉顏厝寮97號"></address>
+        <position latitude="23.5718532" longtitude="120.2490067"></position>
+    </entry>
+    <entry>
+        <title name="大同路加油站(24)(自助) - 汽油92、95、98(24H)"></title>
+        <address  area="台南市南區" name="台南市南區大同路二段380號"></address>
+        <position latitude="22.9753084" longtitude="120.214095"></position>
+    </entry>
+    <entry>
+        <title name="成斥竷[油站(24)(自助) - 汽油92、95、98(24H)"></title>
+        <address  area="台南市北區" name="台南市北區成斥?6號"></address>
+        <position latitude="22.9977961" longtitude="120.20931"></position>
+    </entry>
+    <entry>
+        <title name="東門路加油站(7-21)(自助) - 汽油92、95、98(7-21H)"></title>
+        <address  area="台南市東區" name="台南市東區東門路二段39號"></address>
+        <position latitude="22.9863377" longtitude="120.2201461"></position>
+    </entry>
+    <entry>
+        <title name="公園站路加油站(24)(自助) - 汽油92、95、98(24H)"></title>
+        <address  area="台南市北區" name="台南市北區公園路721號"></address>
+        <position latitude="23.0171294" longtitude="120.214889"></position>
+    </entry>
+    <entry>
+        <title name="灣裡加油站(7-21)(自助) - 汽油92、95、98(7-21H)"></title>
+        <address  area="台南市南區" name="台南市南區明興路1081號"></address>
+        <position latitude="22.9294319" longtitude="120.1853847"></position>
+    </entry>
+    <entry>
+        <title name="中華西路南加油站(24)(自助) - 汽油92、95、98(24H)"></title>
+        <address  area="台南市中西區" name="台南市中西區中華西路二段2號"></address>
+        <position latitude="22.9869814" longtitude="120.1867794"></position>
+    </entry>
+    <entry>
+        <title name="關廟服務區南下加油站(24)(自助) - 汽油92、95、98(24H)"></title>
+        <address  area="台南市龍崎區" name="台南市龍崎區楠坑12-1號"></address>
+        <position latitude="22.9308481" longtitude="120.3508877"></position>
+    </entry>
+    <entry>
+        <title name="佳里仁愛路加油站(7-21)(自助) - 汽油92、95、98(7-21H)"></title>
+        <address  area="台南市佳里區" name="台南市佳里區仁愛路67號"></address>
+        <position latitude="23.151154" longtitude="120.1847409"></position>
+    </entry>
+    <entry>
+        <title name="中正四路加油站(24) - 汽油92、95、98(24H)"></title>
+        <address  area="高雄市前金區" name="高雄市前金區中正四路251號"></address>
+        <position latitude="22.6276727" longtitude="120.2912354"></position>
+    </entry>
+    <entry>
+        <title name="中正二路加油站(7-21)(自助) - 汽油92、95、98(7-21H)"></title>
+        <address  area="高雄市新興區" name="高雄市新興區中正二路166號"></address>
+        <position latitude="22.6304407" longtitude="120.3171992"></position>
+    </entry>
+    <entry>
+        <title name="高雄中正三路加油站(7-23)(自助) - 汽油92、95、98(7-23H)"></title>
+        <address  area="高雄市新興區" name="高雄市新興區中正三路9號"></address>
+        <position latitude="22.6305266" longtitude="120.3102898"></position>
+    </entry>
+    <entry>
+        <title name="中山二路加油站(7-23)(自助) - 汽油92、95、98(7-23H)"></title>
+        <address  area="高雄市前金區" name="高雄市前金區中山二路569號"></address>
+        <position latitude="22.6218791" longtitude="120.3012776"></position>
+    </entry>
+    <entry>
+        <title name="民權路加油站(24)(自助) - 汽油92、95、98(24H)"></title>
+        <address  area="高雄市前鎮區" name="高雄市前鎮區一心一路291號"></address>
+        <position latitude="22.6098414" longtitude="120.3136372"></position>
+    </entry>
+    <entry>
+        <title name="後勁加油站(24)(自助) - 汽油92、95、98(24H)"></title>
+        <address  area="高雄市楠梓區" name="高雄市楠梓區後昌路200號"></address>
+        <position latitude="22.7164645" longtitude="120.3097104"></position>
+    </entry>
+    <entry>
+        <title name="右昌軍校路加油站(7-22)(自助) - 汽油92、95、98(7-22H)"></title>
+        <address  area="高雄市楠梓區" name="高雄市楠梓區軍校路737號"></address>
+        <position latitude="22.7089758" longtitude="120.2926301"></position>
+    </entry>
+    <entry>
+        <title name="仁武加油站(24) - 汽油92、95、98(24H)"></title>
+        <address  area="高雄市仁武區" name="高雄市仁武區鳳仁路282號"></address>
+        <position latitude="22.7033539" longtitude="120.3441714"></position>
+    </entry>
+    <entry>
+        <title name="建工路加油站(24)(自助) - 汽油92、95、98(24H)"></title>
+        <address  area="高雄市三民區" name="高雄市三民區建工路566號"></address>
+        <position latitude="22.6501818" longtitude="120.3247523"></position>
+    </entry>
+    <entry>
+        <title name="覺民路加油站(24)(自助) - 汽油92、95、98(24H)"></title>
+        <address  area="高雄市三民區" name="高雄市三民區覺民路362號"></address>
+        <position latitude="22.6405258" longtitude="120.3346228"></position>
+    </entry>
+    <entry>
+        <title name="大義街加油站(24)(自助) - 汽油92、95、98(24H)"></title>
+        <address  area="高雄市鹽埕區" name="高雄市鹽埕區大義街56-1號"></address>
+        <position latitude="22.6207419" longtitude="120.2859353"></position>
+    </entry>
+    <entry>
+        <title name="左楠加油站(7-22)(自助) - 汽油92、95、98(7-22H)"></title>
+        <address  area="高雄市楠梓區" name="高雄市楠梓區左楠路2-1號"></address>
+        <position latitude="22.6997919" longtitude="120.3026938"></position>
+    </entry>
+    <entry>
+        <title name="橋頭加油站(7-22)(自助) - 汽油92、95、98(7-22H)"></title>
+        <address  area="高雄市橋頭區" name="高雄市橋頭區成孕_路15號"></address>
+        <position latitude="22.7624698" longtitude="120.3082084"></position>
+    </entry>
+    <entry>
+        <title name="燕巢加油站(7-21)(自助) - 汽油92、95、98(7-21H)"></title>
+        <address  area="高雄市燕巢區" name="高雄市燕巢區中興路199號"></address>
+        <position latitude="22.7881546" longtitude="120.3626465"></position>
+    </entry>
+    <entry>
+        <title name="鳳松加油站(24)(自助) - 汽油92、95、98(24H)"></title>
+        <address  area="高雄市鳳山區" name="高雄市鳳山區鳳松路178-5號"></address>
+        <position latitude="22.6370497" longtitude="120.3626036"></position>
+    </entry>
+    <entry>
+        <title name="高鳳加油站(24)(自助) - 汽油92、95、98(24H)"></title>
+        <address  area="高雄市苓雅區" name="高雄市苓雅區建國一路3號"></address>
+        <position latitude="22.628295" longtitude="120.3423905"></position>
+    </entry>
+    <entry>
+        <title name="建國一路加油站(24)(自助) - 汽油92、95、98(24H)"></title>
+        <address  area="高雄市苓雅區" name="高雄市苓雅區建國一路142號"></address>
+        <position latitude="22.632608" longtitude="120.3299879"></position>
+    </entry>
+    <entry>
+        <title name="漁港路加油站(24)(柴) - 汽油92、95、98、柴油(24H)"></title>
+        <address  area="高雄市前鎮區" name="高雄市前鎮區漁港路2號"></address>
+        <position latitude="22.57832" longtitude="120.3183579"></position>
+    </entry>
+    <entry>
+        <title name="和生路加油站(7-21)(自助) - 汽油92、95、98(7-21H)"></title>
+        <address  area="屏東縣屏東市" name="屏東縣屏東市和生路一段560號"></address>
+        <position latitude="22.6530142" longtitude="120.4947828"></position>
+    </entry>
+    <entry>
+        <title name="萬巒加油站(7-21)(自助) - 汽油92、95、98(7-21H)"></title>
+        <address  area="屏東縣萬巒鄉" name="屏東縣萬巒鄉中正路5-2號"></address>
+        <position latitude="22.5701876" longtitude="120.5641126"></position>
+    </entry>
+    <entry>
+        <title name="墾丁加油站(7-21)(自助) - 汽油92、95、98(7-21H)"></title>
+        <address  area="屏東縣恆春鎮" name="屏東縣恆春鎮墾丁路402號"></address>
+        <position latitude="21.9459839" longtitude="120.7931732"></position>
+    </entry>
+    <entry>
+        <title name="卑南加油站(24)(自助) - 汽油92、95、98(24H)"></title>
+        <address  area="台東縣台東市" name="台東縣台東市更生北路20號"></address>
+        <position latitude="22.777297" longtitude="121.1266898"></position>
+    </entry>
+    <entry>
+        <title name="中山路加油站(24)(自助) - 汽油92、95、98(24H)"></title>
+        <address  area="台東縣台東市" name="台東縣台東市新生路136號"></address>
+        <position latitude="22.7528138" longtitude="121.1480617"></position>
+    </entry>
+    <entry>
+        <title name="延平路潮州加油站(24)(自助) - 汽油92、95、98(24H)"></title>
+        <address  area="屏東縣潮州鎮" name="屏東縣潮州鎮延平路217"></address>
+        <position latitude="22.556823" longtitude="120.5402568"></position>
+    </entry>
+</resources>
