@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/CPC_HYS_mapprc.iml" filepath="$PROJECT_DIR$/CPC_HYS_mapprc.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/mapPRC.iml" filepath="$PROJECT_DIR$/mapPRC.iml" />
     </modules>
   </component>
 </project>
