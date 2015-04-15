@@ -5,8 +5,11 @@
 
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string name="action_info_act_title">Station info</string>
 
     <string name="station_info_name_title">name : </string>
     <string name="station_info_address_title">address : </string>
     <string name="station_info_tele_info">tele : </string>
+
+
 </resources>
