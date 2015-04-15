@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/michael/Documents/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="/home/michael/Documents/CPC_HYS_mapprc/app/build/intermediates/pre-dexed/debug/classes-6f55d9e87d64a06a0c87aef24d0077c26bfa1b30.jar" />
+    </item>
+    <item
+        jar="/home/michael/Documents/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3c0b099f9de16b265ecd6122fcb603e7d0d29f90">
+        <dex dex="/home/michael/Documents/CPC_HYS_mapprc/app/build/intermediates/pre-dexed/debug/classes-7b465f1fbae0af56136f7f5cb350533d63780702.jar" />
+    </item>
+    <item
+        jar="/home/michael/Documents/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3033cc3a2c68dff3e5b646d6d084bdbdf7d00b25">
+        <dex dex="/home/michael/Documents/CPC_HYS_mapprc/app/build/intermediates/pre-dexed/debug/classes-27cac551b923f8d2a7783ea4c09b22821f96295a.jar" />
+    </item>
+    <item
+        jar="/home/michael/Documents/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="fb04b12526b0073c7fb1ebb70c5842d82ee95596">
+        <dex dex="/home/michael/Documents/CPC_HYS_mapprc/app/build/intermediates/pre-dexed/debug/classes-558112d8ecae602c19cb2280054122776ae16b06.jar" />
+    </item>
+    <item
+        jar="/home/michael/Documents/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="73ccb92b70112f2e463e415ef8d7275de7da6516">
+        <dex dex="/home/michael/Documents/CPC_HYS_mapprc/app/build/intermediates/pre-dexed/debug/classes-b9eec96b07fb37cb969c791570abfb34872af6c3.jar" />
+    </item>
+    <item
+        jar="/home/michael/Documents/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a08d65794b844d8e7540bf9a33859bf3b2482d7f">
+        <dex dex="/home/michael/Documents/CPC_HYS_mapprc/app/build/intermediates/pre-dexed/debug/classes-9988474a18cf779fd72a35ce6d9291f5026a03a9.jar" />
+    </item>
+    <item
+        jar="/home/michael/Documents/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4cd0b093824b3228fffc21ea369b98d0b1db6566">
+        <dex dex="/home/michael/Documents/CPC_HYS_mapprc/app/build/intermediates/pre-dexed/debug/classes-c1eb2b73271d0a9defc37c42c7b3b51fa219b38c.jar" />
+    </item>
+    <item
+        jar="/home/michael/Documents/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="29fd6d3794b71491c2789708cd8d03c71feb8954">
+        <dex dex="/home/michael/Documents/CPC_HYS_mapprc/app/build/intermediates/pre-dexed/debug/classes-5b0a6aa0533d01bbd0d852f276c2276de1eb36b6.jar" />
+    </item>
+    <item
+        jar="/home/michael/Documents/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c976518693e89ad44fbfccfc654941eaec198d08">
+        <dex dex="/home/michael/Documents/CPC_HYS_mapprc/app/build/intermediates/pre-dexed/debug/classes-4a5f9da36b341a985e77cb64448c1f0c808c2d0f.jar" />
+    </item>
+    <item
+        jar="/home/michael/Documents/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="/home/michael/Documents/CPC_HYS_mapprc/app/build/intermediates/pre-dexed/debug/classes-055245935e6b394e54c8d597f90a6d4c48198558.jar" />
+    </item>
+    <item
+        jar="/home/michael/Documents/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0e8228b4bc69c6a2c8d7c18498a77e53417d2574">
+        <dex dex="/home/michael/Documents/CPC_HYS_mapprc/app/build/intermediates/pre-dexed/debug/classes-5091bd10debd7f43b170d85bc5528d922ac0ce2c.jar" />
+    </item>
+    <item
+        jar="/home/michael/Documents/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ef5f051e7308febe289dc93c67c5f32785b4260a">
+        <dex dex="/home/michael/Documents/CPC_HYS_mapprc/app/build/intermediates/pre-dexed/debug/classes-7bcf27ba93f9e9095a1f5729a77e29fde5ffe9bb.jar" />
+    </item>
+    <item
+        jar="/home/michael/Documents/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e3d791b42eaa90416cd0b2d2e608092794a3baa4">
+        <dex dex="/home/michael/Documents/CPC_HYS_mapprc/app/build/intermediates/pre-dexed/debug/classes-3a2729cbcc8fa9ff5c31403f4f7d6eae2801a5ba.jar" />
+    </item>
+    <item
+        jar="/home/michael/Documents/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="41b3870cbe5fa546d8095b5b89d42cb69f3dd175">
+        <dex dex="/home/michael/Documents/CPC_HYS_mapprc/app/build/intermediates/pre-dexed/debug/classes-2d9dfb028f7bc6e486f7458651b635cafd3a7973.jar" />
+    </item>
+    <item
+        jar="/home/michael/Documents/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="055783146ba9654a725442563be78cad303aad1f">
+        <dex dex="/home/michael/Documents/CPC_HYS_mapprc/app/build/intermediates/pre-dexed/debug/classes-ac4011531151a996c49192e3d7d3db7ebce40064.jar" />
+    </item>
+    <item
+        jar="/home/michael/Documents/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1c5a76debf0c2857ccad422c4a80ed785982f8df">
+        <dex dex="/home/michael/Documents/CPC_HYS_mapprc/app/build/intermediates/pre-dexed/debug/classes-ca270fcb0e21eeecf25c0f72b48290a34b7f8d8f.jar" />
+    </item>
+    <item
+        jar="/home/michael/Documents/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a96b762bde4139de855735f175ec4d17dca55a6d">
+        <dex dex="/home/michael/Documents/CPC_HYS_mapprc/app/build/intermediates/pre-dexed/debug/classes-a08a09529d592fe2f692da80c3b626960a319b49.jar" />
+    </item>
+    <item
+        jar="/home/michael/Documents/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4c93d99d454c975536bbe3b42283eee847f03ea3">
+        <dex dex="/home/michael/Documents/CPC_HYS_mapprc/app/build/intermediates/pre-dexed/debug/classes-ad993e447204750ea531b6fbfba517aa2696f2c4.jar" />
+    </item>
+    <item
+        jar="/home/michael/Documents/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9224bc4c54ba95147c7eabd874573763c07cb6be">
+        <dex dex="/home/michael/Documents/CPC_HYS_mapprc/app/build/intermediates/pre-dexed/debug/classes-42cbd5c26d1da1fcb4e1a3bf07741daa546a91a9.jar" />
+    </item>
+    <item
+        jar="/home/michael/Documents/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="/home/michael/Documents/CPC_HYS_mapprc/app/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-80a8fd9e636de22846f41f7ad32c56ce5a8fc42a.jar" />
+    </item>
+    <item
+        jar="/home/michael/Documents/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appstate/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7ff613bf78ab057293892fdbd4169eda899c89b9">
+        <dex dex="/home/michael/Documents/CPC_HYS_mapprc/app/build/intermediates/pre-dexed/debug/classes-fffa9e727be72cedc5e529493ffe03747286917c.jar" />
+    </item>
+    <item
+        jar="/home/michael/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/22.0.0/support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="/home/michael/Documents/CPC_HYS_mapprc/app/build/intermediates/pre-dexed/debug/support-annotations-22.0.0-3cb5f53bce0984d3c673c80b61731c0d245353a3.jar" />
+    </item>
+    <item
+        jar="/home/michael/Documents/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="17f8750d5c0749e44dd7c54aa390d9c937803825">
+        <dex dex="/home/michael/Documents/CPC_HYS_mapprc/app/build/intermediates/pre-dexed/debug/classes-f7bfced8a9f8d1e16b5c424d19fe993d73ee331e.jar" />
+    </item>
+
+</items>
