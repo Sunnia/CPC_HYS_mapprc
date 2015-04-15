@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/home/michael/Documents/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/src/main/res/values-zh/strings.xml -->
+    <eat-comment/>
+    <string name="app_name">自助加油查詢</string>
+    <string name="title_activity_maps">自助加油查詢</string>
+</resources>
