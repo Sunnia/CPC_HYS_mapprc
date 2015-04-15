@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Michael Shih\Documents\GitHub\CPC_HYS_mapprc\android\CPC_HYS_mapprc\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="fb04b12526b0073c7fb1ebb70c5842d82ee95596">
+        <dex dex="C:\Users\Michael Shih\Documents\GitHub\CPC_HYS_mapprc\android\CPC_HYS_mapprc\app\build\intermediates\pre-dexed\debug\classes-3a46fbbb58f5dd4b0d68f38ae4b5c382b8a373df.jar" />
+    </item>
+    <item
+        jar="C:\Users\Michael Shih\Documents\GitHub\CPC_HYS_mapprc\android\CPC_HYS_mapprc\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="17f8750d5c0749e44dd7c54aa390d9c937803825">
+        <dex dex="C:\Users\Michael Shih\Documents\GitHub\CPC_HYS_mapprc\android\CPC_HYS_mapprc\app\build\intermediates\pre-dexed\debug\classes-dd5ca5cfb7550550e60acb659f591951edbce186.jar" />
+    </item>
+    <item
+        jar="C:\Users\Michael Shih\Documents\GitHub\CPC_HYS_mapprc\android\CPC_HYS_mapprc\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="C:\Users\Michael Shih\Documents\GitHub\CPC_HYS_mapprc\android\CPC_HYS_mapprc\app\build\intermediates\pre-dexed\debug\classes-d2a638ab0f7922cbe227a3291ffd147205717373.jar" />
+    </item>
+    <item
+        jar="C:\Users\Michael Shih\Documents\GitHub\CPC_HYS_mapprc\android\CPC_HYS_mapprc\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4c93d99d454c975536bbe3b42283eee847f03ea3">
+        <dex dex="C:\Users\Michael Shih\Documents\GitHub\CPC_HYS_mapprc\android\CPC_HYS_mapprc\app\build\intermediates\pre-dexed\debug\classes-02b990dc5806fe28016286aa3af5e7c5f7b64998.jar" />
+    </item>
+    <item
+        jar="C:\Users\Michael Shih\Documents\GitHub\CPC_HYS_mapprc\android\CPC_HYS_mapprc\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9224bc4c54ba95147c7eabd874573763c07cb6be">
+        <dex dex="C:\Users\Michael Shih\Documents\GitHub\CPC_HYS_mapprc\android\CPC_HYS_mapprc\app\build\intermediates\pre-dexed\debug\classes-dc85913305e16f7c3e822031cceba3fb800c580f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Michael Shih\Documents\GitHub\CPC_HYS_mapprc\android\CPC_HYS_mapprc\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3c0b099f9de16b265ecd6122fcb603e7d0d29f90">
+        <dex dex="C:\Users\Michael Shih\Documents\GitHub\CPC_HYS_mapprc\android\CPC_HYS_mapprc\app\build\intermediates\pre-dexed\debug\classes-f0f45a45efb18c0f7b32236e8b7677c0639481ee.jar" />
+    </item>
+    <item
+        jar="C:\Users\Michael Shih\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="C:\Users\Michael Shih\Documents\GitHub\CPC_HYS_mapprc\android\CPC_HYS_mapprc\app\build\intermediates\pre-dexed\debug\support-annotations-22.0.0-fc838046cd0ff3c5324504f4864bd8968e5029ad.jar" />
+    </item>
+    <item
+        jar="C:\Users\Michael Shih\Documents\GitHub\CPC_HYS_mapprc\android\CPC_HYS_mapprc\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4cd0b093824b3228fffc21ea369b98d0b1db6566">
+        <dex dex="C:\Users\Michael Shih\Documents\GitHub\CPC_HYS_mapprc\android\CPC_HYS_mapprc\app\build\intermediates\pre-dexed\debug\classes-14980a1250a9a1e8ca30c334fc847af05eacf274.jar" />
+    </item>
+    <item
+        jar="C:\Users\Michael Shih\Documents\GitHub\CPC_HYS_mapprc\android\CPC_HYS_mapprc\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="C:\Users\Michael Shih\Documents\GitHub\CPC_HYS_mapprc\android\CPC_HYS_mapprc\app\build\intermediates\pre-dexed\debug\classes-b8f592a202c8e9207e4068306f2abcfb3a221107.jar" />
+    </item>
+    <item
+        jar="C:\Users\Michael Shih\Documents\GitHub\CPC_HYS_mapprc\android\CPC_HYS_mapprc\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e3d791b42eaa90416cd0b2d2e608092794a3baa4">
+        <dex dex="C:\Users\Michael Shih\Documents\GitHub\CPC_HYS_mapprc\android\CPC_HYS_mapprc\app\build\intermediates\pre-dexed\debug\classes-1c1562ec69f5f30e2aba79f67ff717cb153e986a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Michael Shih\Documents\GitHub\CPC_HYS_mapprc\android\CPC_HYS_mapprc\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="29fd6d3794b71491c2789708cd8d03c71feb8954">
+        <dex dex="C:\Users\Michael Shih\Documents\GitHub\CPC_HYS_mapprc\android\CPC_HYS_mapprc\app\build\intermediates\pre-dexed\debug\classes-40bd12101657bbac001101f3415b8a4b2341da46.jar" />
+    </item>
+    <item
+        jar="C:\Users\Michael Shih\Documents\GitHub\CPC_HYS_mapprc\android\CPC_HYS_mapprc\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a08d65794b844d8e7540bf9a33859bf3b2482d7f">
+        <dex dex="C:\Users\Michael Shih\Documents\GitHub\CPC_HYS_mapprc\android\CPC_HYS_mapprc\app\build\intermediates\pre-dexed\debug\classes-89c620996875404acee5486847cc54500469167d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Michael Shih\Documents\GitHub\CPC_HYS_mapprc\android\CPC_HYS_mapprc\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ef5f051e7308febe289dc93c67c5f32785b4260a">
+        <dex dex="C:\Users\Michael Shih\Documents\GitHub\CPC_HYS_mapprc\android\CPC_HYS_mapprc\app\build\intermediates\pre-dexed\debug\classes-936b2ae7057b4857fe5f80db20c6ada2b559dd36.jar" />
+    </item>
+    <item
+        jar="C:\Users\Michael Shih\Documents\GitHub\CPC_HYS_mapprc\android\CPC_HYS_mapprc\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7ff613bf78ab057293892fdbd4169eda899c89b9">
+        <dex dex="C:\Users\Michael Shih\Documents\GitHub\CPC_HYS_mapprc\android\CPC_HYS_mapprc\app\build\intermediates\pre-dexed\debug\classes-7166ac0229fdafd8d427957cb20e05730668a451.jar" />
+    </item>
+    <item
+        jar="C:\Users\Michael Shih\Documents\GitHub\CPC_HYS_mapprc\android\CPC_HYS_mapprc\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1c5a76debf0c2857ccad422c4a80ed785982f8df">
+        <dex dex="C:\Users\Michael Shih\Documents\GitHub\CPC_HYS_mapprc\android\CPC_HYS_mapprc\app\build\intermediates\pre-dexed\debug\classes-fd48d3c846229f18555e42dc20c2eff2f21e7f30.jar" />
+    </item>
+    <item
+        jar="C:\Users\Michael Shih\Documents\GitHub\CPC_HYS_mapprc\android\CPC_HYS_mapprc\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="055783146ba9654a725442563be78cad303aad1f">
+        <dex dex="C:\Users\Michael Shih\Documents\GitHub\CPC_HYS_mapprc\android\CPC_HYS_mapprc\app\build\intermediates\pre-dexed\debug\classes-27cc622dab024e6692c17c74c974eed096382a1a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Michael Shih\Documents\GitHub\CPC_HYS_mapprc\android\CPC_HYS_mapprc\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3033cc3a2c68dff3e5b646d6d084bdbdf7d00b25">
+        <dex dex="C:\Users\Michael Shih\Documents\GitHub\CPC_HYS_mapprc\android\CPC_HYS_mapprc\app\build\intermediates\pre-dexed\debug\classes-e03d8b148a20341d03610573dd56348a95dab9bb.jar" />
+    </item>
+    <item
+        jar="C:\Users\Michael Shih\Documents\GitHub\CPC_HYS_mapprc\android\CPC_HYS_mapprc\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a96b762bde4139de855735f175ec4d17dca55a6d">
+        <dex dex="C:\Users\Michael Shih\Documents\GitHub\CPC_HYS_mapprc\android\CPC_HYS_mapprc\app\build\intermediates\pre-dexed\debug\classes-c6fb97ef66c319d190b86c2aed7a1eca8bcc92f7.jar" />
+    </item>
+    <item
+        jar="C:\Users\Michael Shih\Documents\GitHub\CPC_HYS_mapprc\android\CPC_HYS_mapprc\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="73ccb92b70112f2e463e415ef8d7275de7da6516">
+        <dex dex="C:\Users\Michael Shih\Documents\GitHub\CPC_HYS_mapprc\android\CPC_HYS_mapprc\app\build\intermediates\pre-dexed\debug\classes-d32dede7dab3df4bf860148bd32ef1e260467f66.jar" />
+    </item>
+    <item
+        jar="C:\Users\Michael Shih\Documents\GitHub\CPC_HYS_mapprc\android\CPC_HYS_mapprc\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="C:\Users\Michael Shih\Documents\GitHub\CPC_HYS_mapprc\android\CPC_HYS_mapprc\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-e78a3b60f43a9e15373d298044c50ed2d2c2f0de.jar" />
+    </item>
+    <item
+        jar="C:\Users\Michael Shih\Documents\GitHub\CPC_HYS_mapprc\android\CPC_HYS_mapprc\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c976518693e89ad44fbfccfc654941eaec198d08">
+        <dex dex="C:\Users\Michael Shih\Documents\GitHub\CPC_HYS_mapprc\android\CPC_HYS_mapprc\app\build\intermediates\pre-dexed\debug\classes-3bf7c0d5f4325f92214d7fd18654bdb3b636ec2b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Michael Shih\Documents\GitHub\CPC_HYS_mapprc\android\CPC_HYS_mapprc\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0e8228b4bc69c6a2c8d7c18498a77e53417d2574">
+        <dex dex="C:\Users\Michael Shih\Documents\GitHub\CPC_HYS_mapprc\android\CPC_HYS_mapprc\app\build\intermediates\pre-dexed\debug\classes-0a437c01054ce5ea7d1f0c8334aa980083bc8a37.jar" />
+    </item>
+    <item
+        jar="C:\Users\Michael Shih\Documents\GitHub\CPC_HYS_mapprc\android\CPC_HYS_mapprc\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="41b3870cbe5fa546d8095b5b89d42cb69f3dd175">
+        <dex dex="C:\Users\Michael Shih\Documents\GitHub\CPC_HYS_mapprc\android\CPC_HYS_mapprc\app\build\intermediates\pre-dexed\debug\classes-c6ccb0e187e7a180bfdb5d3f965c422b77397aa7.jar" />
+    </item>
+
+</items>
