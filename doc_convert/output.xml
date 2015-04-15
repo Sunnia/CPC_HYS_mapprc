@@ -1,0 +1,858 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<entry>
+		<title name="大雅中清路站         營業時間 : 00:00-24:00"></title>
+		<address  area="" name="台中市大雅區中清路三段951號"></address>
+		<position latitude="" longtitude=""></position>
+	</entry>
+	<entry>
+		<title name="北屯站         營業時間 : 07:00-22:00"></title>
+		<address  area="" name="台中市北屯區北屯路436號"></address>
+		<position latitude="" longtitude=""></position>
+	</entry>
+	<entry>
+		<title name="昌平路站         營業時間 : 07:00-22:00"></title>
+		<address  area="" name="台中市北屯區昌平路一段95號"></address>
+		<position latitude="" longtitude=""></position>
+	</entry>
+	<entry>
+		<title name="東山路站         營業時間 : 07:00-22:00"></title>
+		<address  area="" name="台中市北屯區東山路一段377-5號"></address>
+		<position latitude="" longtitude=""></position>
+	</entry>
+	<entry>
+		<title name="松竹路站         營業時間 : 00:00-24:00"></title>
+		<address  area="" name="台中市北屯區松和里松竹路427號"></address>
+		<position latitude="" longtitude=""></position>
+	</entry>
+	<entry>
+		<title name="大同站         營業時間 : 07:00-22:00"></title>
+		<address  area="" name="台中市北區錦平里三民路三段225號"></address>
+		<position latitude="" longtitude=""></position>
+	</entry>
+	<entry>
+		<title name="石岡豐勢路站         營業時間 : 00:00-24:00"></title>
+		<address  area="" name="台中市石岡區九房里明德路2號"></address>
+		<position latitude="" longtitude=""></position>
+	</entry>
+	<entry>
+		<title name="后里站         營業時間 : 00:00-24:00"></title>
+		<address  area="" name="台中市后里區三豐路427號"></address>
+		<position latitude="" longtitude=""></position>
+	</entry>
+	<entry>
+		<title name="青海路站         營業時間 : 00:00-24:00"></title>
+		<address  area="" name="台中市西屯區青海路二段211號"></address>
+		<position latitude="" longtitude=""></position>
+	</entry>
+	<entry>
+		<title name="文心路站         營業時間 : 00:00-24:00"></title>
+		<address  area="" name="台中市西屯區文心路三段2號"></address>
+		<position latitude="" longtitude=""></position>
+	</entry>
+	<entry>
+		<title name="台中工業區站         營業時間 : 00:00-24:00"></title>
+		<address  area="" name="台中市西屯區福和里臺灣大道四段1047號"></address>
+		<position latitude="" longtitude=""></position>
+	</entry>
+	<entry>
+		<title name="公益路站         營業時間 : 00:00-24:00"></title>
+		<address  area="" name="台中市南屯區公益路二段2號"></address>
+		<position latitude="" longtitude=""></position>
+	</entry>
+	<entry>
+		<title name="五權西路站         營業時間 : 00:00-24:00"></title>
+		<address  area="" name="台中市南屯區五權西路二段562號"></address>
+		<position latitude="" longtitude=""></position>
+	</entry>
+	<entry>
+		<title name="三民路站         營業時間 : 07:00-18:00"></title>
+		<address  area="" name="台中市南區福平里三民路一段１號"></address>
+		<position latitude="" longtitude=""></position>
+	</entry>
+	<entry>
+		<title name="烏日高鐵站         營業時間 : 07:00-21:00"></title>
+		<address  area="" name="台中市烏日區建國路265號"></address>
+		<position latitude="" longtitude=""></position>
+	</entry>
+	<entry>
+		<title name="清水服務區站         營業時間 : 00:00-24:00"></title>
+		<address  area="" name="台中市清水區吳厝里吳厝二街81號"></address>
+		<position latitude="" longtitude=""></position>
+	</entry>
+	<entry>
+		<title name="清水站         營業時間 : 00:00-24:00"></title>
+		<address  area="" name="台中市清水區中山路507-18號"></address>
+		<position latitude="" longtitude=""></position>
+	</entry>
+	<entry>
+		<title name="翁子站         營業時間 : 00:00-24:00"></title>
+		<address  area="" name="台中市豐原區豐勢路一段588號"></address>
+		<position latitude="" longtitude=""></position>
+	</entry>
+	<entry>
+		<title name="霧峰林森路站         營業時間 : 00:00-24:00"></title>
+		<address  area="" name="台中市霧峰區林森路455號"></address>
+		<position latitude="" longtitude=""></position>
+	</entry>
+	<entry>
+		<title name="文林路站         營業時間 : 00:00-24:00"></title>
+		<address  area="" name="台北市士林區文林路100號"></address>
+		<position latitude="" longtitude=""></position>
+	</entry>
+	<entry>
+		<title name="福林站          營業時間 : 00:00-24:00"></title>
+		<address  area="" name="台北市士林區中山北路五段465號"></address>
+		<position latitude="" longtitude=""></position>
+	</entry>
+	<entry>
+		<title name="龍安站         營業時間 : 00:00-24:00"></title>
+		<address  area="" name="台北市大安區和平東路二段2號"></address>
+		<position latitude="" longtitude=""></position>
+	</entry>
+	<entry>
+		<title name="金山南路站         營業時間 : 07:00-24:00"></title>
+		<address  area="" name="台北市大安區金山南路二段77號"></address>
+		<position latitude="" longtitude=""></position>
+	</entry>
+	<entry>
+		<title name="富陽街站         營業時間 : 00:00-24:00"></title>
+		<address  area="" name="台北市大安區富陽街129號"></address>
+		<position latitude="" longtitude=""></position>
+	</entry>
+	<entry>
+		<title name="信義路站         營業時間 : 00:00-24:00"></title>
+		<address  area="" name="台北市大安區信義路四段374號"></address>
+		<position latitude="" longtitude=""></position>
+	</entry>
+	<entry>
+		<title name="大直站         營業時間 : 00:00-24:00"></title>
+		<address  area="" name="台北市中山區明水路661號"></address>
+		<position latitude="" longtitude=""></position>
+	</entry>
+	<entry>
+		<title name="新生北路站         營業時間 : 00:00-24:00"></title>
+		<address  area="" name="台北市中山區新生北路二段71號"></address>
+		<position latitude="" longtitude=""></position>
+	</entry>
+	<entry>
+		<title name="建國北路站         營業時間 : 00:00-24:00"></title>
+		<address  area="" name="台北市中山區建國北路三段91號之1"></address>
+		<position latitude="" longtitude=""></position>
+	</entry>
+	<entry>
+		<title name="中崙站         營業時間 : 00:00-24:00"></title>
+		<address  area="" name="台北市中山區八德路二段214號"></address>
+		<position latitude="" longtitude=""></position>
+	</entry>
+	<entry>
+		<title name="莒光路站         營業時間 : 00:00-24:00"></title>
+		<address  area="" name="台北市中正區莒光路2號"></address>
+		<position latitude="" longtitude=""></position>
+	</entry>
+	<entry>
+		<title name="林森北路站         營業時間 : 00:00-24:00"></title>
+		<address  area="" name="台北市中正區林森北路11號"></address>
+		<position latitude="" longtitude=""></position>
+	</entry>
+	<entry>
+		<title name="汀州路站         營業時間 : 00:00-24:00"></title>
+		<address  area="" name="台北市中正區汀州路三段１號"></address>
+		<position latitude="" longtitude=""></position>
+	</entry>
+	<entry>
+		<title name="內湖麗山街站         營業時間 : 00:00-24:00"></title>
+		<address  area="" name="台北市內湖區內湖路一段362號"></address>
+		<position latitude="" longtitude=""></position>
+	</entry>
+	<entry>
+		<title name="東湖站         營業時間 : 07:00-22:00"></title>
+		<address  area="" name="台北市內湖區康寧路三段225號"></address>
+		<position latitude="" longtitude=""></position>
+	</entry>
+	<entry>
+		<title name="西湖         營業時間 : 07:00-23:00"></title>
+		<address  area="" name="台北市內湖區內湖路一段59號"></address>
+		<position latitude="" longtitude=""></position>
+	</entry>
+	<entry>
+		<title name="內湖站         營業時間 : 00:00-24:00"></title>
+		<address  area="" name="台北市內湖區民權東路六段50號"></address>
+		<position latitude="" longtitude=""></position>
+	</entry>
+	<entry>
+		<title name="木柵站         營業時間 : 00:00-24:00"></title>
+		<address  area="" name="台北市文山區木柵路三段2號"></address>
+		<position latitude="" longtitude=""></position>
+	</entry>
+	<entry>
+		<title name="萬隆站         營業時間 : 00:00-24:00"></title>
+		<address  area="" name="台北市文山區興隆路一段13號"></address>
+		<position latitude="" longtitude=""></position>
+	</entry>
+	<entry>
+		<title name="中央北路站         營業時間 : 00:00-24:00"></title>
+		<address  area="" name="台北市北投區中央北路四段584號"></address>
+		<position latitude="" longtitude=""></position>
+	</entry>
+	<entry>
+		<title name="北投站         營業時間 : 00:00-24:00"></title>
+		<address  area="" name="台北市北投區承德路七段384號"></address>
+		<position latitude="" longtitude=""></position>
+	</entry>
+	<entry>
+		<title name="復興北路站         營業時間 : 07:00-23:00"></title>
+		<address  area="" name="台北市松山區復興北路31號"></address>
+		<position latitude="" longtitude=""></position>
+	</entry>
+	<entry>
+		<title name="光復北路站         營業時間 : 00:00-24:00"></title>
+		<address  area="" name="台北市松山區光復北路13號"></address>
+		<position latitude="" longtitude=""></position>
+	</entry>
+	<entry>
+		<title name="民生東路站         營業時間 : 00:00-24:00"></title>
+		<address  area="" name="台北市松山區三民路126號"></address>
+		<position latitude="" longtitude=""></position>
+	</entry>
+	<entry>
+		<title name="濱江大直橋加油加氣站         營業時間 : 00:00-24:00"></title>
+		<address  area="" name="台北市松山區濱江街373號"></address>
+		<position latitude="" longtitude=""></position>
+	</entry>
+	<entry>
+		<title name="忠孝東路站         營業時間 : 00:00-24:00"></title>
+		<address  area="" name="台北市信義區忠孝東路五段69號"></address>
+		<position latitude="" longtitude=""></position>
+	</entry>
+	<entry>
+		<title name="南港站         營業時間 : 00:00-24:00"></title>
+		<address  area="" name="台北市南港區南港路二段50號"></address>
+		<position latitude="" longtitude=""></position>
+	</entry>
+	<entry>
+		<title name="環河南路站         營業時間 : 00:00-24:00"></title>
+		<address  area="" name="台北市萬華區環河南路二段274之2及177之1"></address>
+		<position latitude="" longtitude=""></position>
+	</entry>
+	<entry>
+		<title name="桂林路站         營業時間 : 07:00-22:00"></title>
+		<address  area="" name="台北市萬華區桂林路53號"></address>
+		<position latitude="" longtitude=""></position>
+	</entry>
+	<entry>
+		<title name="中山路站         營業時間 : 00:00-24:00"></title>
+		<address  area="" name="台東縣台東市新生路136號"></address>
+		<position latitude="" longtitude=""></position>
+	</entry>
+	<entry>
+		<title name="卑南站         營業時間 : 00:00-24:00"></title>
+		<address  area="" name="台東縣台東市更生北路20號"></address>
+		<position latitude="" longtitude=""></position>
+	</entry>
+	<entry>
+		<title name="府前路站         營業時間 : 07:00-21:00"></title>
+		<address  area="" name="台南市中西區府前路二段256號"></address>
+		<position latitude="" longtitude=""></position>
+	</entry>
+	<entry>
+		<title name="中華西路南站         營業時間 : 00:00-24:00"></title>
+		<address  area="" name="台南市中西區中華西路二段2號"></address>
+		<position latitude="" longtitude=""></position>
+	</entry>
+	<entry>
+		<title name="成功路站         營業時間 : 00:00-24:00"></title>
+		<address  area="" name="台南市北區成功路16號"></address>
+		<position latitude="" longtitude=""></position>
+	</entry>
+	<entry>
+		<title name="公園路站         營業時間 : 00:00-24:00"></title>
+		<address  area="" name="台南市北區公園路721號"></address>
+		<position latitude="" longtitude=""></position>
+	</entry>
+	<entry>
+		<title name="育平路站         營業時間 : 07:00-21:00"></title>
+		<address  area="" name="台南市安平區育平路80號"></address>
+		<position latitude="" longtitude=""></position>
+	</entry>
+	<entry>
+		<title name="安中路站         營業時間 : 07:00-21:00"></title>
+		<address  area="" name="台南市安南區安中路四段446號"></address>
+		<position latitude="" longtitude=""></position>
+	</entry>
+	<entry>
+		<title name="佳里仁愛路站         營業時間 : 07:00-21:00"></title>
+		<address  area="" name="台南市佳里區仁愛路67號"></address>
+		<position latitude="" longtitude=""></position>
+	</entry>
+	<entry>
+		<title name="東門路站         營業時間 : 07:00-22:00"></title>
+		<address  area="" name="台南市東區東門路二段39號"></address>
+		<position latitude="" longtitude=""></position>
+	</entry>
+	<entry>
+		<title name="大同路站         營業時間 : 00:00-24:00"></title>
+		<address  area="" name="台南市東區大同路二段380號"></address>
+		<position latitude="" longtitude=""></position>
+	</entry>
+	<entry>
+		<title name="灣裡站         營業時間 : 07:00-21:00"></title>
+		<address  area="" name="台南市南區明興路1081號"></address>
+		<position latitude="" longtitude=""></position>
+	</entry>
+	<entry>
+		<title name="冬山站         營業時間 : 00:00-24:00"></title>
+		<address  area="" name="宜蘭縣冬山鄉冬山路二段260號"></address>
+		<position latitude="" longtitude=""></position>
+	</entry>
+	<entry>
+		<title name="九份站         營業時間 : 07:00-21:00"></title>
+		<address  area="" name="宜蘭縣冬山鄉冬山路五段165號"></address>
+		<position latitude="" longtitude=""></position>
+	</entry>
+	<entry>
+		<title name="礁溪站         營業時間 : 07:00-22:00"></title>
+		<address  area="" name="宜蘭縣礁溪鄉礁溪路六段28號"></address>
+		<position latitude="" longtitude=""></position>
+	</entry>
+	<entry>
+		<title name="蘇澳站         營業時間 : 07:00-22:00"></title>
+		<address  area="" name="宜蘭縣蘇澳鎮中山路一段196號"></address>
+		<position latitude="" longtitude=""></position>
+	</entry>
+	<entry>
+		<title name="南埔站         營業時間 : 00:00-24:00"></title>
+		<address  area="" name="花蓮縣吉安鄉仁和村中正路二段6號"></address>
+		<position latitude="" longtitude=""></position>
+	</entry>
+	<entry>
+		<title name="巨豐站         營業時間 : 07:00-22:00"></title>
+		<address  area="" name="花蓮縣吉安鄉勝安村和平路一段45號"></address>
+		<position latitude="" longtitude=""></position>
+	</entry>
+	<entry>
+		<title name="港口站         營業時間 : 07:00-21:00"></title>
+		<address  area="" name="花蓮縣花蓮市吉林路2號"></address>
+		<position latitude="" longtitude=""></position>
+	</entry>
+	<entry>
+		<title name="中華路站         營業時間 : 07:00-22:00"></title>
+		<address  area="" name="花蓮縣花蓮市中華路333號"></address>
+		<position latitude="" longtitude=""></position>
+	</entry>
+	<entry>
+		<title name="南投服務區站         營業時間 : 00:00-24:00"></title>
+		<address  area="" name="南投縣南投市南鄉路250巷142弄8號"></address>
+		<position latitude="" longtitude=""></position>
+	</entry>
+	<entry>
+		<title name="南投三和站         營業時間 : 00:00-24:00"></title>
+		<address  area="" name="南投縣南投市三和里中興路549號"></address>
+		<position latitude="" longtitude=""></position>
+	</entry>
+	<entry>
+		<title name="國姓站         營業時間 : 07:00-22:00"></title>
+		<address  area="" name="南投縣國姓鄉福龜村中正路一段55號"></address>
+		<position latitude="" longtitude=""></position>
+	</entry>
+	<entry>
+		<title name="墾丁站         營業時間 : 07:00-21:00"></title>
+		<address  area="" name="屏東縣恆春鎮墾丁里墾丁路402號"></address>
+		<position latitude="" longtitude=""></position>
+	</entry>
+	<entry>
+		<title name="萬巒站         營業時間 : 07:00-21:00"></title>
+		<address  area="" name="屏東縣萬巒鄉萬巒村中正路5-2號"></address>
+		<position latitude="" longtitude=""></position>
+	</entry>
+	<entry>
+		<title name="潮州站         營業時間 : 00:00-24:00"></title>
+		<address  area="" name="屏東縣潮州鎮三和里延平路217號"></address>
+		<position latitude="" longtitude=""></position>
+	</entry>
+	<entry>
+		<title name="竹南站         營業時間 : 07:00-21:00"></title>
+		<address  area="" name="苗栗縣竹南鎮東平路101號"></address>
+		<position latitude="" longtitude=""></position>
+	</entry>
+	<entry>
+		<title name="中正路站         營業時間 : 00:00-24:00"></title>
+		<address  area="" name="苗栗縣竹南鎮中正路120號"></address>
+		<position latitude="" longtitude=""></position>
+	</entry>
+	<entry>
+		<title name="卓蘭站         營業時間 : 07:00-22:00"></title>
+		<address  area="" name="苗栗縣卓蘭鎮中正西路101號"></address>
+		<position latitude="" longtitude=""></position>
+	</entry>
+	<entry>
+		<title name="後龍站         營業時間 : 00:00-24:00"></title>
+		<address  area="" name="苗栗縣後龍鎮中華路51-2號"></address>
+		<position latitude="" longtitude=""></position>
+	</entry>
+	<entry>
+		<title name="北苗站         營業時間 : 07:00-21:00"></title>
+		<address  area="" name="苗栗縣苗栗市為公路110號"></address>
+		<position latitude="" longtitude=""></position>
+	</entry>
+	<entry>
+		<title name="中苗站         營業時間 : 00:00-24:00"></title>
+		<address  area="" name="苗栗縣苗栗市中正路442號"></address>
+		<position latitude="" longtitude=""></position>
+	</entry>
+	<entry>
+		<title name="苑裡站         營業時間 : 00:00-24:00"></title>
+		<address  area="" name="苗栗縣苑裡鎮中山路19號"></address>
+		<position latitude="" longtitude=""></position>
+	</entry>
+	<entry>
+		<title name="南平路站         營業時間 : 07:00-21:00"></title>
+		<address  area="" name="苗栗縣頭份鎮蘆竹路270號"></address>
+		<position latitude="" longtitude=""></position>
+	</entry>
+	<entry>
+		<title name="頭份站         營業時間 : 00:00-24:00"></title>
+		<address  area="" name="苗栗縣頭份鎮自強路2號"></address>
+		<position latitude="" longtitude=""></position>
+	</entry>
+	<entry>
+		<title name="蘆竹站         營業時間 : 07:00-21:00"></title>
+		<address  area="" name="苗栗縣頭份鎮中華路444號"></address>
+		<position latitude="" longtitude=""></position>
+	</entry>
+	<entry>
+		<title name="頭份工業區站         營業時間 : 07:00-21:00"></title>
+		<address  area="" name="苗栗縣頭份鎮蘆竹里中華路519號"></address>
+		<position latitude="" longtitude=""></position>
+	</entry>
+	<entry>
+		<title name="桃園機場第三站         營業時間 : 07:00-21:00"></title>
+		<address  area="" name="桃園市大園區埔心里航勤南路2號"></address>
+		<position latitude="" longtitude=""></position>
+	</entry>
+	<entry>
+		<title name="中壢工業區加油加氣站         營業時間 : 00:00-24:00"></title>
+		<address  area="" name="桃園市中壢區中華路二段230號(備註：加氣站營業時間：07:00-22:00)"></address>
+		<position latitude="" longtitude=""></position>
+	</entry>
+	<entry>
+		<title name="中壢工二站         營業時間 : 00:00-24:00"></title>
+		<address  area="" name="桃園市中壢區吉林路37巷15號"></address>
+		<position latitude="" longtitude=""></position>
+	</entry>
+	<entry>
+		<title name="中壢站         營業時間 : 07:00-22:00"></title>
+		<address  area="" name="桃園市中壢區延平路33號"></address>
+		<position latitude="" longtitude=""></position>
+	</entry>
+	<entry>
+		<title name="龍岡站         營業時間 : 00:00-24:00"></title>
+		<address  area="" name="桃園市中壢區環中東路二段659號"></address>
+		<position latitude="" longtitude=""></position>
+	</entry>
+	<entry>
+		<title name="新富站         營業時間 : 00:00-24:00"></title>
+		<address  area="" name="桃園市平鎮區新富里中豐路一段298號"></address>
+		<position latitude="" longtitude=""></position>
+	</entry>
+	<entry>
+		<title name="春日路站         營業時間 : 00:00-24:00"></title>
+		<address  area="" name="桃園市桃園區春日路971號"></address>
+		<position latitude="" longtitude=""></position>
+	</entry>
+	<entry>
+		<title name="三民路站         營業時間 : 00:00-24:00"></title>
+		<address  area="" name="桃園市桃園區三民路一段150號"></address>
+		<position latitude="" longtitude=""></position>
+	</entry>
+	<entry>
+		<title name="新屋站         營業時間 : 07:00-22:00"></title>
+		<address  area="" name="桃園市新屋區中山路85號"></address>
+		<position latitude="" longtitude=""></position>
+	</entry>
+	<entry>
+		<title name="梅溪加油加氣站         營業時間 : 00:00-24:00"></title>
+		<address  area="" name="桃園市楊梅區中山北路一段391號(備註：加氣站營業時間07:00-22:00)"></address>
+		<position latitude="" longtitude=""></position>
+	</entry>
+	<entry>
+		<title name="龍潭站         營業時間 : 00:00-24:00"></title>
+		<address  area="" name="桃園市龍潭區北龍路264號"></address>
+		<position latitude="" longtitude=""></position>
+	</entry>
+	<entry>
+		<title name="林口工三         營業時間 : 00:00-24:00"></title>
+		<address  area="" name="桃園市龜山區樂善里文化一路33號"></address>
+		<position latitude="" longtitude=""></position>
+	</entry>
+	<entry>
+		<title name="蘆竹站         營業時間 : 00:00-24:00"></title>
+		<address  area="" name="桃園市蘆竹區錦興里中正路342號"></address>
+		<position latitude="" longtitude=""></position>
+	</entry>
+	<entry>
+		<title name="建工路站         營業時間 : 00:00-24:00"></title>
+		<address  area="" name="高雄市三民區建工路566號"></address>
+		<position latitude="" longtitude=""></position>
+	</entry>
+	<entry>
+		<title name="覺民路站         營業時間 : 00:00-24:00"></title>
+		<address  area="" name="高雄市三民區覺民路362號"></address>
+		<position latitude="" longtitude=""></position>
+	</entry>
+	<entry>
+		<title name="中山二路站         營業時間 : 07:00-23:00"></title>
+		<address  area="" name="高雄市前金區中山二路569號"></address>
+		<position latitude="" longtitude=""></position>
+	</entry>
+	<entry>
+		<title name="中華三路站         營業時間 : 00:00-24:00"></title>
+		<address  area="" name="高雄市前金區中華三路136號"></address>
+		<position latitude="" longtitude=""></position>
+	</entry>
+	<entry>
+		<title name="民權路站         營業時間 : 00:00-24:00"></title>
+		<address  area="" name="高雄市前鎮區一心一路291號"></address>
+		<position latitude="" longtitude=""></position>
+	</entry>
+	<entry>
+		<title name="高鳳站         營業時間 : 00:00-24:00"></title>
+		<address  area="" name="高雄市苓雅區建國一路3號"></address>
+		<position latitude="" longtitude=""></position>
+	</entry>
+	<entry>
+		<title name="建國一路站         營業時間 : 00:00-24:00"></title>
+		<address  area="" name="高雄市苓雅區建國一路142號"></address>
+		<position latitude="" longtitude=""></position>
+	</entry>
+	<entry>
+		<title name="中正三路站         營業時間 : 07:00-23:00"></title>
+		<address  area="" name="高雄市新興區中正三路9號"></address>
+		<position latitude="" longtitude=""></position>
+	</entry>
+	<entry>
+		<title name="中正二路站         營業時間 : 07:00-23:00"></title>
+		<address  area="" name="高雄市新興區中正二路166號"></address>
+		<position latitude="" longtitude=""></position>
+	</entry>
+	<entry>
+		<title name="後勁站         營業時間 : 00:00-24:00"></title>
+		<address  area="" name="高雄市楠梓區後昌路200號"></address>
+		<position latitude="" longtitude=""></position>
+	</entry>
+	<entry>
+		<title name="左楠加油站         營業時間 : 07:00-22:00"></title>
+		<address  area="" name="高雄市楠梓區高雄市楠梓區左楠路2-1號"></address>
+		<position latitude="" longtitude=""></position>
+	</entry>
+	<entry>
+		<title name="右昌軍校路站         營業時間 : 06:30-22:00"></title>
+		<address  area="" name="高雄市楠梓區軍校路737號"></address>
+		<position latitude="" longtitude=""></position>
+	</entry>
+	<entry>
+		<title name="鳳松站         營業時間 : 00:00-24:00"></title>
+		<address  area="" name="高雄市鳳山區武松里鳳松路178-5號"></address>
+		<position latitude="" longtitude=""></position>
+	</entry>
+	<entry>
+		<title name="橋頭站         營業時間 : 07:00-22:00"></title>
+		<address  area="" name="高雄市橋頭區橋頭里成功北路15號"></address>
+		<position latitude="" longtitude=""></position>
+	</entry>
+	<entry>
+		<title name="燕巢站         營業時間 : 07:00-21:00"></title>
+		<address  area="" name="高雄市燕巢區南燕里中興路199號"></address>
+		<position latitude="" longtitude=""></position>
+	</entry>
+	<entry>
+		<title name="大義街站         營業時間 : 07:00-23:00"></title>
+		<address  area="" name="高雄市鹽埕區大義街56-1號"></address>
+		<position latitude="" longtitude=""></position>
+	</entry>
+	<entry>
+		<title name="祥豐街站         營業時間 : 07:00-21:00"></title>
+		<address  area="" name="基隆市中正區祥豐街108號"></address>
+		<position latitude="" longtitude=""></position>
+	</entry>
+	<entry>
+		<title name="北寧路站         營業時間 : 07:00-23:00"></title>
+		<address  area="" name="基隆市中正區北寧路37號"></address>
+		<position latitude="" longtitude=""></position>
+	</entry>
+	<entry>
+		<title name="八堵加油加氣站         營業時間 : 07:00-22:00"></title>
+		<address  area="" name="基隆市暖暖區八堵路158號(備註：加氣站營業至22:00)"></address>
+		<position latitude="" longtitude=""></position>
+	</entry>
+	<entry>
+		<title name="雅虎站         營業時間 : 00:00-24:00"></title>
+		<address  area="" name="雲林縣斗六市虎溪里西平路776號"></address>
+		<position latitude="" longtitude=""></position>
+	</entry>
+	<entry>
+		<title name="水林站         營業時間 : 07:00-21:00"></title>
+		<address  area="" name="雲林縣水林鄉水北村顏厝寮97號"></address>
+		<position latitude="" longtitude=""></position>
+	</entry>
+	<entry>
+		<title name="崙背站         營業時間 : 07:00-21:00"></title>
+		<address  area="" name="雲林縣崙背鄉南陽村正義路123號"></address>
+		<position latitude="" longtitude=""></position>
+	</entry>
+	<entry>
+		<title name="麥寮站         營業時間 : 07:00-21:00"></title>
+		<address  area="" name="雲林縣麥寮鄉麥豐村中山路12號"></address>
+		<position latitude="" longtitude=""></position>
+	</entry>
+	<entry>
+		<title name="義和站         營業時間 : 00:00-24:00"></title>
+		<address  area="" name="雲林縣莿桐鄉義和村三和37-5號"></address>
+		<position latitude="" longtitude=""></position>
+	</entry>
+	<entry>
+		<title name="八里站         營業時間 : 00:00-24:00"></title>
+		<address  area="" name="新北市八里區中山路一段1號"></address>
+		<position latitude="" longtitude=""></position>
+	</entry>
+	<entry>
+		<title name="三重重新路站         營業時間 : 00:00-24:00"></title>
+		<address  area="" name="新北市三重區重新路五段495號"></address>
+		<position latitude="" longtitude=""></position>
+	</entry>
+	<entry>
+		<title name="二重站         營業時間 : 07:00-22:00"></title>
+		<address  area="" name="新北市三重區重新路五段652號"></address>
+		<position latitude="" longtitude=""></position>
+	</entry>
+	<entry>
+		<title name="大埔站         營業時間 : 07:00-23:00"></title>
+		<address  area="" name="新北市三峽區中正路二段165號"></address>
+		<position latitude="" longtitude=""></position>
+	</entry>
+	<entry>
+		<title name="土城廣福路站         營業時間 : 00:00-24:00"></title>
+		<address  area="" name="新北市土城區四川路１號"></address>
+		<position latitude="" longtitude=""></position>
+	</entry>
+	<entry>
+		<title name="土城站         營業時間 : 00:00-24:00"></title>
+		<address  area="" name="新北市土城區中央路二段280號"></address>
+		<position latitude="" longtitude=""></position>
+	</entry>
+	<entry>
+		<title name="積穗站         營業時間 : 00:00-24:00"></title>
+		<address  area="" name="新北市中和區中山路二段550號"></address>
+		<position latitude="" longtitude=""></position>
+	</entry>
+	<entry>
+		<title name="中和站         營業時間 : 00:00-24:00"></title>
+		<address  area="" name="新北市中和區中和路260號"></address>
+		<position latitude="" longtitude=""></position>
+	</entry>
+	<entry>
+		<title name="保長坑站         營業時間 : 00:00-24:00"></title>
+		<address  area="" name="新北市汐止區大同路三段186-1號"></address>
+		<position latitude="" longtitude=""></position>
+	</entry>
+	<entry>
+		<title name="汐止站         營業時間 : 00:00-24:00"></title>
+		<address  area="" name="新北市汐止區大同路一段353號"></address>
+		<position latitude="" longtitude=""></position>
+	</entry>
+	<entry>
+		<title name="坪林站         營業時間 : 07:00-21:00"></title>
+		<address  area="" name="新北市坪林區北宜路八段61號"></address>
+		<position latitude="" longtitude=""></position>
+	</entry>
+	<entry>
+		<title name="林口站         營業時間 : 00:00-24:00"></title>
+		<address  area="" name="新北市林口區林口里14鄰中山路１號"></address>
+		<position latitude="" longtitude=""></position>
+	</entry>
+	<entry>
+		<title name="板橋民族路站         營業時間 : 00:00-24:00"></title>
+		<address  area="" name="新北市板橋區民族路90號"></address>
+		<position latitude="" longtitude=""></position>
+	</entry>
+	<entry>
+		<title name="埔墘站         營業時間 : 00:00-24:00"></title>
+		<address  area="" name="新北市板橋區中山路二段320號"></address>
+		<position latitude="" longtitude=""></position>
+	</entry>
+	<entry>
+		<title name="泰山站         營業時間 : 07:00-22:00"></title>
+		<address  area="" name="新北市泰山區泰林路二段424號"></address>
+		<position latitude="" longtitude=""></position>
+	</entry>
+	<entry>
+		<title name="泰新加油加氣站         營業時間 : 00:00-24:00"></title>
+		<address  area="" name="新北市泰山區新北大道五段1號"></address>
+		<position latitude="" longtitude=""></position>
+	</entry>
+	<entry>
+		<title name="新店北新路站         營業時間 : 00:00-24:00"></title>
+		<address  area="" name="新北市新店區北新路一段90號"></address>
+		<position latitude="" longtitude=""></position>
+	</entry>
+	<entry>
+		<title name="新店中正路站         營業時間 : 00:00-24:00"></title>
+		<address  area="" name="新北市新店區中正路470號"></address>
+		<position latitude="" longtitude=""></position>
+	</entry>
+	<entry>
+		<title name="大豐站         營業時間 : 00:00-24:00"></title>
+		<address  area="" name="新北市新店區北新路二段205號"></address>
+		<position latitude="" longtitude=""></position>
+	</entry>
+	<entry>
+		<title name="樹林站         營業時間 : 00:00-24:00"></title>
+		<address  area="" name="新北市樹林區樹新路207號"></address>
+		<position latitude="" longtitude=""></position>
+	</entry>
+	<entry>
+		<title name="蘆洲站         營業時間 : 00:00-24:00"></title>
+		<address  area="" name="新北市蘆洲區三民路99號"></address>
+		<position latitude="" longtitude=""></position>
+	</entry>
+	<entry>
+		<title name="蘆洲中山二路站         營業時間 : 00:00-24:00"></title>
+		<address  area="" name="新北市蘆洲區中山二路309號"></address>
+		<position latitude="" longtitude=""></position>
+	</entry>
+	<entry>
+		<title name="鶯桃路站         營業時間 : 07:00-21:00"></title>
+		<address  area="" name="新北市鶯歌區建國路608號"></address>
+		<position latitude="" longtitude=""></position>
+	</entry>
+	<entry>
+		<title name="鶯歌站         營業時間 : 00:00-24:00"></title>
+		<address  area="" name="新北市鶯歌區文化路152號"></address>
+		<position latitude="" longtitude=""></position>
+	</entry>
+	<entry>
+		<title name="北大路站         營業時間 : 00:00-24:00"></title>
+		<address  area="" name="新竹市東區北大路374號"></address>
+		<position latitude="" longtitude=""></position>
+	</entry>
+	<entry>
+		<title name="科學園區站         營業時間 : 00:00-24:00"></title>
+		<address  area="" name="新竹市東區龍山里工業東二路2-2號"></address>
+		<position latitude="" longtitude=""></position>
+	</entry>
+	<entry>
+		<title name="民華站         營業時間 : 00:00-24:00"></title>
+		<address  area="" name="新竹市東區中華路二段156-1號"></address>
+		<position latitude="" longtitude=""></position>
+	</entry>
+	<entry>
+		<title name="光明站         營業時間 : 00:00-24:00"></title>
+		<address  area="" name="新竹市東區光復路二段1號"></address>
+		<position latitude="" longtitude=""></position>
+	</entry>
+	<entry>
+		<title name="關東橋站         營業時間 : 00:00-24:00"></title>
+		<address  area="" name="新竹市東區光復路一段529號"></address>
+		<position latitude="" longtitude=""></position>
+	</entry>
+	<entry>
+		<title name="香山站         營業時間 : 07:00-21:00"></title>
+		<address  area="" name="新竹市香山區中華路五段54號"></address>
+		<position latitude="" longtitude=""></position>
+	</entry>
+	<entry>
+		<title name="府前站         營業時間 : 00:00-24:00"></title>
+		<address  area="" name="新竹縣竹北市縣政二路112號"></address>
+		<position latitude="" longtitude=""></position>
+	</entry>
+	<entry>
+		<title name="竹北站         營業時間 : 07:00-22:00"></title>
+		<address  area="" name="新竹縣竹北市中華路439號"></address>
+		<position latitude="" longtitude=""></position>
+	</entry>
+	<entry>
+		<title name="竹東站         營業時間 : 00:00-24:00"></title>
+		<address  area="" name="新竹縣竹東鎮東寧路一段2號"></address>
+		<position latitude="" longtitude=""></position>
+	</entry>
+	<entry>
+		<title name="東林路站         營業時間 : 00:00-24:00"></title>
+		<address  area="" name="新竹縣竹東鎮東林路111號"></address>
+		<position latitude="" longtitude=""></position>
+	</entry>
+	<entry>
+		<title name="豐興         營業時間 : 07:00-21:00"></title>
+		<address  area="" name="新竹縣竹東鎮北興路一段40號"></address>
+		<position latitude="" longtitude=""></position>
+	</entry>
+	<entry>
+		<title name="新豐站         營業時間 : 00:00-24:00"></title>
+		<address  area="" name="新竹縣湖口鄉鳳山村新興路330號"></address>
+		<position latitude="" longtitude=""></position>
+	</entry>
+	<entry>
+		<title name="關西站         營業時間 : 07:00-21:00"></title>
+		<address  area="" name="新竹縣關西鎮中豐路二段50號"></address>
+		<position latitude="" longtitude=""></position>
+	</entry>
+	<entry>
+		<title name="關西服務區站         營業時間 : 00:00-24:00"></title>
+		<address  area="" name="新竹縣關西鎮東安里上三屯14之10號"></address>
+		<position latitude="" longtitude=""></position>
+	</entry>
+	<entry>
+		<title name="信義路站         營業時間 : 00:00-24:00"></title>
+		<address  area="" name="嘉義市西區博愛路二段519號"></address>
+		<position latitude="" longtitude=""></position>
+	</entry>
+	<entry>
+		<title name="吳鳳路站         營業時間 : 00:00-24:00"></title>
+		<address  area="" name="嘉義市東區吳鳳南路92號"></address>
+		<position latitude="" longtitude=""></position>
+	</entry>
+	<entry>
+		<title name="嘉義高鐵南站         營業時間 : 07:00-21:00"></title>
+		<address  area="" name="嘉義市東區大溪里高鐵大道925號"></address>
+		<position latitude="" longtitude=""></position>
+	</entry>
+	<entry>
+		<title name="嘉保站         營業時間 : 07:00-21:00"></title>
+		<address  area="" name="嘉義縣太保市安仁里嘉朴東路1段116號"></address>
+		<position latitude="" longtitude=""></position>
+	</entry>
+	<entry>
+		<title name="南靖站         營業時間 : 07:00-21:00"></title>
+		<address  area="" name="嘉義縣水上鄉三鎮路101-1號"></address>
+		<position latitude="" longtitude=""></position>
+	</entry>
+	<entry>
+		<title name="民雄站         營業時間 : 07:00-21:00"></title>
+		<address  area="" name="嘉義縣民雄鄉建國路二段329號"></address>
+		<position latitude="" longtitude=""></position>
+	</entry>
+	<entry>
+		<title name="梅山站         營業時間 : 07:00-21:00"></title>
+		<address  area="" name="嘉義縣梅山鄉梅北村中山路746號"></address>
+		<position latitude="" longtitude=""></position>
+	</entry>
+	<entry>
+		<title name="二林站         營業時間 : 00:00-24:00"></title>
+		<address  area="" name="彰化縣二林鎮豐田里二溪路一段212號"></address>
+		<position latitude="" longtitude=""></position>
+	</entry>
+	<entry>
+		<title name="員東路站         營業時間 : 00:00-24:00"></title>
+		<address  area="" name="彰化縣員林鎮員東路二段413號"></address>
+		<position latitude="" longtitude=""></position>
+	</entry>
+	<entry>
+		<title name="埔心站         營業時間 : 00:00-24:00"></title>
+		<address  area="" name="彰化縣埔心鄉瓦北村員鹿路一段421號"></address>
+		<position latitude="" longtitude=""></position>
+	</entry>
+	<entry>
+		<title name="彰化站         營業時間 : 00:00-24:00"></title>
+		<address  area="" name="彰化縣彰化市和調里中山路三段27號"></address>
+		<position latitude="" longtitude=""></position>
+	</entry>
+</resources>
