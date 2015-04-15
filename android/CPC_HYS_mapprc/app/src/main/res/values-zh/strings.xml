@@ -2,7 +2,10 @@
 <resources>
     <string name="app_name">自助加油查詢</string>
     <string name="title_activity_maps">自助加油查詢</string>
+    <string name="title_activity_station_info">StationInfoActivity</string>
 
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
     <string name="action_info_act_title">加油站資訊</string>
 
 

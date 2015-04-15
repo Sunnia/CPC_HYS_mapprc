@@ -1,13 +1,20 @@
 apply plugin: 'com.android.application'
 
 android {
-    compileSdkVersion 21
+    signingConfigs {
+        config {
+            keyAlias 'sunnia'
+            keyPassword 'hinata0819'
+            storeFile file('/home/michael/Documents/CPC_HYS_key.jks')
+            storePassword 'hinata0819'
+        }
+    }
+    compileSdkVersion 22
     buildToolsVersion "21.1.2"
-
     defaultConfig {
         applicationId "com.example.michael.mapprc"
         minSdkVersion 15
-        targetSdkVersion 21
+        targetSdkVersion 22
         versionCode 1
         versionName "1.0"
     }
@@ -15,6 +22,10 @@ android {
         release {
             minifyEnabled false
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+            signingConfig signingConfigs.config
+        }
+        debug {
+            signingConfig signingConfigs.config
         }
     }
 }
