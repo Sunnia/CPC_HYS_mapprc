@@ -1,20 +1,24 @@
 package com.example.michael.mapprc;
 
 import android.content.Context;
+import android.content.Intent;
 import android.content.res.XmlResourceParser;
 import android.content.res.Resources;
 import android.location.Criteria;
 import android.location.Location;
 import android.location.LocationListener;
 import android.location.LocationManager;
+import android.net.Uri;
 import android.support.v4.app.FragmentActivity;
 import android.os.Bundle;
 import android.util.Log;
+import android.widget.Toast;
 
 import com.google.android.gms.maps.CameraUpdateFactory;
 import com.google.android.gms.maps.GoogleMap;
 import com.google.android.gms.maps.SupportMapFragment;
 import com.google.android.gms.maps.model.LatLng;
+import com.google.android.gms.maps.model.Marker;
 import com.google.android.gms.maps.model.MarkerOptions;
 
 import org.xmlpull.v1.XmlPullParser;
@@ -49,19 +53,6 @@ public class MapsActivity extends FragmentActivity implements LocationListener{
         } catch (Exception e) {
             e.printStackTrace();
         }
-        /*try {
-            locManager = (LocationManager) getSystemService(Context.LOCATION_SERVICE);
-            locManager.requestLocationUpdates(LocationManager.GPS_PROVIDER, 0,
-                    0, (android.location.LocationListener) this);
-            Location location = locManager
-                    .getLastKnownLocation(LocationManager.GPS_PROVIDER);
-            if (location!=null){
-                LatLng currentlocation = new LatLng(location.getLatitude(), location.getLongitude());
-                mMap.animateCamera(CameraUpdateFactory.newLatLngZoom(currentlocation, 14));
-            }
-        } catch (Exception e) {
-            e.printStackTrace();
-        }*/
     }
 
     /**
@@ -118,6 +109,23 @@ public class MapsActivity extends FragmentActivity implements LocationListener{
         mMap.getUiSettings().setMyLocationButtonEnabled(true);
         //Set satart location on map
         mMap.moveCamera(CameraUpdateFactory.newLatLngZoom(new LatLng(23.547795,120.816900), 7));
+        mMap.setOnInfoWindowClickListener(new GoogleMap.OnInfoWindowClickListener() {
+
+            @Override
+            public void onInfoWindowClick(Marker marker) {
+                //Toast.makeText(MapsActivity.this, marker.getTitle(), 1000).show();// display toast
+
+                Intent nextScreen=new Intent(MapsActivity.this,StationInfoActivity.class);
+                nextScreen.putExtra("latitude", marker.getPosition().latitude);
+                nextScreen.putExtra("longitude", marker.getPosition().longitude);
+                nextScreen.putExtra("name", marker.getTitle());
+                nextScreen.putExtra("address", getAddressByName(marker.getTitle()));
+                startActivity(nextScreen);
+
+
+            }
+
+        });
 
 
         //animate to cue location
@@ -161,5 +169,12 @@ public class MapsActivity extends FragmentActivity implements LocationListener{
     @Override
     public void onProviderDisabled(String provider) {
 
+    }
+    private String getAddressByName(String input){
+        for (int i = 0; i < station.size(); i++) {
+            if(station.get(i).getname().equals(input))
+            return station.get(i).getAddress();
+        }
+        return null;
     }
 }

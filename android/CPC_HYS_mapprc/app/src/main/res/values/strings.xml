@@ -1,4 +1,12 @@
 <resources>
     <string name="app_name">CPC_HYS</string>
     <string name="title_activity_maps">CPC_HYS</string>
+    <string name="title_activity_station_info">StationInfoActivity</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="station_info_name_title">name : </string>
+    <string name="station_info_address_title">address : </string>
+    <string name="station_info_tele_info">tele : </string>
 </resources>

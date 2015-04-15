@@ -2,4 +2,8 @@
 <resources>
     <string name="app_name">自助加油查詢</string>
     <string name="title_activity_maps">自助加油查詢</string>
+    <string name="station_info_name_title">站名 : </string>
+    <string name="station_info_address_title">地址 : </string>
+    <string name="station_info_tele_info">電話 : </string>
+
 </resources>
