@@ -60,7 +60,6 @@ public class StationInfoActivity extends ActionBarActivity {
     }
     public void start_navagate(View view){
         Uri uri = Uri.parse("http://maps.google.com/maps?q=loc:"+latitude + "," + longitude);
-        //Uri uri = Uri.parse("http://www.google.com");
         Intent i = new Intent(Intent.ACTION_VIEW, uri);
         startActivity(i);
     }

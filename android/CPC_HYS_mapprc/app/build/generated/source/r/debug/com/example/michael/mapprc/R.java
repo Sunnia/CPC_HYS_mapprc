@@ -1726,7 +1726,7 @@ containing a value of this type.
         public static final int action_mode_bar=0x7f0b0043;
         public static final int action_mode_bar_stub=0x7f0b0042;
         public static final int action_mode_close_button=0x7f0b0035;
-        public static final int action_settings=0x7f0b005a;
+        public static final int action_settings=0x7f0b005c;
         public static final int activity_chooser_view_content=0x7f0b0036;
         public static final int address_textview=0x7f0b0059;
         public static final int address_title_textview=0x7f0b0056;
@@ -1761,6 +1761,8 @@ containing a value of this type.
         public static final int icon=0x7f0b003b;
         public static final int ifRoom=0x7f0b001e;
         public static final int image=0x7f0b0038;
+        public static final int infoWindow_address=0x7f0b005b;
+        public static final int infoWindow_name=0x7f0b005a;
         public static final int listMode=0x7f0b0009;
         public static final int list_item=0x7f0b003a;
         public static final int map=0x7f0b0054;
@@ -1836,7 +1838,8 @@ containing a value of this type.
         public static final int abc_simple_dropdown_hint=0x7f040015;
         public static final int activity_maps=0x7f040016;
         public static final int activity_station_info=0x7f040017;
-        public static final int support_simple_spinner_dropdown_item=0x7f040018;
+        public static final int info_window_layout=0x7f040018;
+        public static final int support_simple_spinner_dropdown_item=0x7f040019;
     }
     public static final class menu {
         public static final int menu_station_info=0x7f0f0000;

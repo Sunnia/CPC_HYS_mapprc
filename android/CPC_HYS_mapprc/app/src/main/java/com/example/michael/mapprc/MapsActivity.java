@@ -12,6 +12,8 @@ import android.net.Uri;
 import android.support.v4.app.FragmentActivity;
 import android.os.Bundle;
 import android.util.Log;
+import android.view.View;
+import android.widget.TextView;
 import android.widget.Toast;
 
 import com.google.android.gms.maps.CameraUpdateFactory;
@@ -90,17 +92,33 @@ public class MapsActivity extends FragmentActivity implements LocationListener{
      * This should only be called once and when we are sure that {@link #mMap} is not null.
      */
     private void setUpMap() throws Exception {
-        //mMap.addMarker(new MarkerOptions().position(new LatLng(0, 0)).title("Marker"));
-        //mMap.addMarker(new MarkerOptions().position(new LatLng(23.547795,120.816900)).title("Marker"));
         Resources res = this.getResources();
         XmlResourceParser xrp = res.getXml(R.xml.gasstation);
         station = UseXmlStation.ReadStationXML((XmlPullParser) xrp);
         for (int i = 0; i < station.size(); i++) {
             float lat = station.get(i).getLatitude();
-            float longt = station.get(i).getLongtitude();
+            float lng = station.get(i).getLongtitude();
             String tit = station.get(i).getname();
-            //String dbgstr
-            mMap.addMarker(new MarkerOptions().position(new LatLng(lat, longt)).title(tit));
+
+            mMap.setInfoWindowAdapter(new GoogleMap.InfoWindowAdapter() {
+                @Override
+                public View getInfoWindow(Marker marker) {
+                    return null;
+                }
+                @Override
+                public View getInfoContents(Marker marker) {
+                    // Getting view from the layout file info_window_layout
+                    View v = getLayoutInflater().inflate(R.layout.info_window_layout, null);
+                    String markerTitle = marker.getTitle();
+                    TextView infoName = (TextView) v.findViewById(R.id.infoWindow_name);
+                    TextView infoAddress = (TextView) v.findViewById(R.id.infoWindow_address);
+                    infoName.setText(markerTitle);
+                    infoAddress.setText(getAddressByName(markerTitle));
+                    return v;
+
+                }
+            });
+            mMap.addMarker(new MarkerOptions().position(new LatLng(lat, lng)).title(tit));
         }
 
 
@@ -126,7 +144,7 @@ public class MapsActivity extends FragmentActivity implements LocationListener{
         });
 
 
-        //animate to cue location
+        //animate to cur location
         locManager = (LocationManager) getSystemService(Context.LOCATION_SERVICE);
         //Criteria criteria = new Criteria();                                           //Criteria curlocation feature
         //String provider = locManager.getBestProvider(criteria,true);                  //Criteria curlocation feature

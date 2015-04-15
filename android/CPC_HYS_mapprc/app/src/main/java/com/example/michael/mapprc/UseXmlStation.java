@@ -63,14 +63,14 @@ public class UseXmlStation {
             if (xrp.getEventType() == XmlResourceParser.START_TAG) {
                 String tagname = xrp.getName();
                 if (tagname.equals("title")) {
-                    sta.setname(xrp.getAttributeValue(0));
+                    sta.setname(xrp.getAttributeValue(0));//name
 
                 } else if (tagname.equals("address")) {
-                    sta.setAddress(xrp.getAttributeValue(1));
+                    sta.setAddress(xrp.getAttributeValue(1));//name
 
                 } else if (tagname.equals("position")) {
-                    sta.setLatitude(xrp.getAttributeValue(0));
-                    sta.setLongtitude(xrp.getAttributeValue(1));
+                    sta.setLatitude(xrp.getAttributeValue(0));//latitude
+                    sta.setLongtitude(xrp.getAttributeValue(1));//longitude
 
                 }
             }
