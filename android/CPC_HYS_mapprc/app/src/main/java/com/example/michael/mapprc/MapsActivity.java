@@ -112,9 +112,7 @@ public class MapsActivity extends FragmentActivity implements LocationListener{
         mMap.setOnInfoWindowClickListener(new GoogleMap.OnInfoWindowClickListener() {
 
             @Override
-            public void onInfoWindowClick(Marker marker) {
-                //Toast.makeText(MapsActivity.this, marker.getTitle(), 1000).show();// display toast
-
+            public void onInfoWindowClick(Marker marker) {//navagate to info activity
                 Intent nextScreen=new Intent(MapsActivity.this,StationInfoActivity.class);
                 nextScreen.putExtra("latitude", marker.getPosition().latitude);
                 nextScreen.putExtra("longitude", marker.getPosition().longitude);
