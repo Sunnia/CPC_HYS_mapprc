@@ -146,25 +146,15 @@ public class MapsActivity extends FragmentActivity implements LocationListener{
 
         //animate to cur location
         locManager = (LocationManager) getSystemService(Context.LOCATION_SERVICE);
-        //Criteria criteria = new Criteria();                                           //Criteria curlocation feature
-        //String provider = locManager.getBestProvider(criteria,true);                  //Criteria curlocation feature
-        locManager.requestLocationUpdates(LocationManager.GPS_PROVIDER, 0,0, (android.location.LocationListener) this);
-        Location location = locManager.getLastKnownLocation(LocationManager.GPS_PROVIDER);
-        //Location location = locManager.getLastKnownLocation(provider);                //Criteria curlocation feature
+        Criteria criteria = new Criteria();                                           //Criteria curlocation feature
+        String provider = locManager.getBestProvider(criteria,true);                  //Criteria curlocation feature
+        Location location = locManager.getLastKnownLocation(provider);                //Criteria curlocation feature
         if (location!=null) {
             Log.w("setUpMap",location.toString());
             LatLng currentlocation = new LatLng(location.getLatitude(), location.getLongitude());
-            mMap.animateCamera(CameraUpdateFactory.newLatLngZoom(currentlocation, 14),2000,new MapCancelableCallback());
-        }else{
-            locManager.requestLocationUpdates(LocationManager.NETWORK_PROVIDER, 0,0, (android.location.LocationListener) this);
-            location = locManager.getLastKnownLocation(LocationManager.NETWORK_PROVIDER);
-            if (location!=null) {
-                Log.w("setUpMap",location.toString());
-                LatLng currentlocation = new LatLng(location.getLatitude(), location.getLongitude());
-                mMap.animateCamera(CameraUpdateFactory.newLatLngZoom(currentlocation, 14),2000,new MapCancelableCallback());
-            }
-
+            mMap.moveCamera(CameraUpdateFactory.newLatLngZoom(currentlocation, 14));
         }
+
     }
 
     @Override
