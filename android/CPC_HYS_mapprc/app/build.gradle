@@ -4,9 +4,9 @@ android {
     signingConfigs {
         config {
             keyAlias 'sunnia'
-            keyPassword 'hinata0819'
-            storeFile file('/home/michael/Documents/CPC_HYS_key.jks')
-            storePassword 'hinata0819'
+            keyPassword 'sca0819'
+            storeFile file('/Users/shihsunnia/Documents/SunniaKey.jks')
+            storePassword 'sca0819'
         }
     }
     compileSdkVersion 22
