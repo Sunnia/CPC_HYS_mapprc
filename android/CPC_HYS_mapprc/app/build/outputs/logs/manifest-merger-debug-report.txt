@@ -1,283 +1,223 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/src/main/AndroidManifest.xml:2:1-47:12
+ADDED from /Users/michaelshih/Documents/GitHub/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/src/main/AndroidManifest.xml:2:1-47:12
+INJECTED from /Users/michaelshih/Documents/GitHub/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/src/main/AndroidManifest.xml:2:1-47:12
+INJECTED from /Users/michaelshih/Documents/GitHub/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/src/main/AndroidManifest.xml:2:1-47:12
+INJECTED from /Users/michaelshih/Documents/GitHub/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/src/main/AndroidManifest.xml:2:1-47:12
+MERGED from [com.android.support:appcompat-v7:22.0.0] /Users/michaelshih/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.0.0.aar/066a6e2b1c6a8a7b67e70c6246200038/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services:7.0.0] /Users/michaelshih/.gradle/caches/transforms-1/files-1.1/play-services-7.0.0.aar/7ad6b17a51f8ae3fe3fe31b899ca280f/AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-ads:7.0.0] /Users/michaelshih/.gradle/caches/transforms-1/files-1.1/play-services-ads-7.0.0.aar/b79254bc9ea2120635bbf21014c5b227/AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-analytics:7.0.0] /Users/michaelshih/.gradle/caches/transforms-1/files-1.1/play-services-analytics-7.0.0.aar/98f6f3128b06862d7285a212d5b5838c/AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-appindexing:7.0.0] /Users/michaelshih/.gradle/caches/transforms-1/files-1.1/play-services-appindexing-7.0.0.aar/fe6610a5e08c21c60ca537fd3b3b9d4b/AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-appstate:7.0.0] /Users/michaelshih/.gradle/caches/transforms-1/files-1.1/play-services-appstate-7.0.0.aar/6fa02165ec42a179d810b16eb0404198/AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-cast:7.0.0] /Users/michaelshih/.gradle/caches/transforms-1/files-1.1/play-services-cast-7.0.0.aar/caf7517cc1a7bfbe8efe11264b21395a/AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-games:7.0.0] /Users/michaelshih/.gradle/caches/transforms-1/files-1.1/play-services-games-7.0.0.aar/297aad912a1faee7871503575af21d95/AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-drive:7.0.0] /Users/michaelshih/.gradle/caches/transforms-1/files-1.1/play-services-drive-7.0.0.aar/2e7f84d130d1ba353c0090d8b8a1f7b3/AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-fitness:7.0.0] /Users/michaelshih/.gradle/caches/transforms-1/files-1.1/play-services-fitness-7.0.0.aar/4b015de12c6a1ab391a2a39d66092e8f/AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-gcm:7.0.0] /Users/michaelshih/.gradle/caches/transforms-1/files-1.1/play-services-gcm-7.0.0.aar/cbf7d86bc9f1c8d1293657ff8dcc44b0/AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-wallet:7.0.0] /Users/michaelshih/.gradle/caches/transforms-1/files-1.1/play-services-wallet-7.0.0.aar/c2eb46bd8a782157e8aa77c3fffc4b14/AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-identity:7.0.0] /Users/michaelshih/.gradle/caches/transforms-1/files-1.1/play-services-identity-7.0.0.aar/cf899b147a11c820ea594dc9fcd1bed9/AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-location:7.0.0] /Users/michaelshih/.gradle/caches/transforms-1/files-1.1/play-services-location-7.0.0.aar/de80116cddff0601c4ee6f7d7faca9ad/AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-maps:7.0.0] /Users/michaelshih/.gradle/caches/transforms-1/files-1.1/play-services-maps-7.0.0.aar/eca544e67878479367c5d85403df03c9/AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-nearby:7.0.0] /Users/michaelshih/.gradle/caches/transforms-1/files-1.1/play-services-nearby-7.0.0.aar/a7e9291c0f9f3dcaa0d8ec468ba4907b/AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-panorama:7.0.0] /Users/michaelshih/.gradle/caches/transforms-1/files-1.1/play-services-panorama-7.0.0.aar/a90362db297835fe1e0b5ce1323c6d35/AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-plus:7.0.0] /Users/michaelshih/.gradle/caches/transforms-1/files-1.1/play-services-plus-7.0.0.aar/2ab67b607cb0d17adc2aeb359407990c/AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-safetynet:7.0.0] /Users/michaelshih/.gradle/caches/transforms-1/files-1.1/play-services-safetynet-7.0.0.aar/998e37655381e7ad9e3ed9b934fbd7a4/AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-wearable:7.0.0] /Users/michaelshih/.gradle/caches/transforms-1/files-1.1/play-services-wearable-7.0.0.aar/f5308a0f4a6d75cff0fc7f15afa04f1c/AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-base:7.0.0] /Users/michaelshih/.gradle/caches/transforms-1/files-1.1/play-services-base-7.0.0.aar/dd5b7e61d23260e8feec649eb5912abc/AndroidManifest.xml:16:1-26:12
+MERGED from [com.android.support:support-v4:22.0.0] /Users/michaelshih/.gradle/caches/transforms-1/files-1.1/support-v4-22.0.0.aar/e10237c28006124dc46b1256140e6eb4/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/michaelshih/Documents/GitHub/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/src/main/AndroidManifest.xml:2:1-47:12
+INJECTED from /Users/michaelshih/Documents/GitHub/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/src/main/AndroidManifest.xml:2:1-47:12
+INJECTED from /Users/michaelshih/Documents/GitHub/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/src/main/AndroidManifest.xml:2:1-47:12
 	package
-		ADDED from /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/src/main/AndroidManifest.xml:3:5-41
-		INJECTED from /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/src/main/AndroidManifest.xml
+		ADDED from /Users/michaelshih/Documents/GitHub/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/src/main/AndroidManifest.xml:3:5-41
+		INJECTED from /Users/michaelshih/Documents/GitHub/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/michaelshih/Documents/GitHub/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/src/main/AndroidManifest.xml
-	xmlns:android
-		ADDED from /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/src/main/AndroidManifest.xml:2:11-69
+		INJECTED from /Users/michaelshih/Documents/GitHub/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/src/main/AndroidManifest.xml
+		ADDED from /Users/michaelshih/Documents/GitHub/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/src/main/AndroidManifest.xml:2:1-47:12
+		INJECTED from /Users/michaelshih/Documents/GitHub/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/src/main/AndroidManifest.xml
 	android:versionCode
-		INJECTED from /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/michaelshih/Documents/GitHub/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/src/main/AndroidManifest.xml
+		ADDED from /Users/michaelshih/Documents/GitHub/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/src/main/AndroidManifest.xml:2:1-47:12
+		INJECTED from /Users/michaelshih/Documents/GitHub/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/michaelshih/Documents/GitHub/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/src/main/AndroidManifest.xml:2:11-69
 uses-permission#android.permission.INTERNET
-ADDED from /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/src/main/AndroidManifest.xml:5:5-67
+ADDED from /Users/michaelshih/Documents/GitHub/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/src/main/AndroidManifest.xml:5:5-67
 	android:name
-		ADDED from /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/src/main/AndroidManifest.xml:5:22-64
+		ADDED from /Users/michaelshih/Documents/GitHub/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/src/main/AndroidManifest.xml:5:22-64
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/src/main/AndroidManifest.xml:6:5-79
+ADDED from /Users/michaelshih/Documents/GitHub/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/src/main/AndroidManifest.xml:6:5-79
 	android:name
-		ADDED from /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/src/main/AndroidManifest.xml:6:22-76
+		ADDED from /Users/michaelshih/Documents/GitHub/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/src/main/AndroidManifest.xml:6:22-76
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/src/main/AndroidManifest.xml:7:5-81
+ADDED from /Users/michaelshih/Documents/GitHub/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/src/main/AndroidManifest.xml:7:5-81
 	android:name
-		ADDED from /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/src/main/AndroidManifest.xml:7:22-78
+		ADDED from /Users/michaelshih/Documents/GitHub/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/src/main/AndroidManifest.xml:7:22-78
 uses-permission#com.google.android.providers.gsf.permission.READ_GSERVICES
-ADDED from /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/src/main/AndroidManifest.xml:8:5-98
+ADDED from /Users/michaelshih/Documents/GitHub/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/src/main/AndroidManifest.xml:8:5-98
 	android:name
-		ADDED from /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/src/main/AndroidManifest.xml:8:22-95
+		ADDED from /Users/michaelshih/Documents/GitHub/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/src/main/AndroidManifest.xml:8:22-95
 uses-permission#android.permission.ACCESS_COARSE_LOCATION
-ADDED from /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/src/main/AndroidManifest.xml:13:5-81
+ADDED from /Users/michaelshih/Documents/GitHub/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/src/main/AndroidManifest.xml:13:5-81
 	android:name
-		ADDED from /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/src/main/AndroidManifest.xml:13:22-78
+		ADDED from /Users/michaelshih/Documents/GitHub/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/src/main/AndroidManifest.xml:13:22-78
 uses-permission#android.permission.ACCESS_FINE_LOCATION
-ADDED from /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/src/main/AndroidManifest.xml:14:5-79
+ADDED from /Users/michaelshih/Documents/GitHub/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/src/main/AndroidManifest.xml:14:5-79
 	android:name
-		ADDED from /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/src/main/AndroidManifest.xml:14:22-76
+		ADDED from /Users/michaelshih/Documents/GitHub/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/src/main/AndroidManifest.xml:14:22-76
 application
-ADDED from /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/src/main/AndroidManifest.xml:16:5-45:19
-MERGED from [com.android.support:appcompat-v7:22.0.0] /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-v4:22.0.0] /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services:7.0.0] /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/7.0.0/AndroidManifest.xml:19:5-20
-MERGED from [com.google.android.gms:play-services-ads:7.0.0] /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.0.0/AndroidManifest.xml:19:5-20
-MERGED from [com.google.android.gms:play-services-base:7.0.0] /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:20:5-24:19
-MERGED from [com.android.support:support-v4:22.0.0] /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-analytics:7.0.0] /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/7.0.0/AndroidManifest.xml:19:5-20
-MERGED from [com.google.android.gms:play-services-base:7.0.0] /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:20:5-24:19
-MERGED from [com.android.support:support-v4:22.0.0] /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-analytics:7.0.0] /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/7.0.0/AndroidManifest.xml:19:5-20
-MERGED from [com.google.android.gms:play-services-base:7.0.0] /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:20:5-24:19
-MERGED from [com.android.support:support-v4:22.0.0] /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-appindexing:7.0.0] /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/7.0.0/AndroidManifest.xml:19:5-20
-MERGED from [com.google.android.gms:play-services-base:7.0.0] /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:20:5-24:19
-MERGED from [com.android.support:support-v4:22.0.0] /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-appstate:7.0.0] /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appstate/7.0.0/AndroidManifest.xml:19:5-20
-MERGED from [com.google.android.gms:play-services-base:7.0.0] /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:20:5-24:19
-MERGED from [com.android.support:support-v4:22.0.0] /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-base:7.0.0] /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:20:5-24:19
-MERGED from [com.android.support:support-v4:22.0.0] /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-cast:7.0.0] /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/7.0.0/AndroidManifest.xml:19:5-20
-MERGED from [com.google.android.gms:play-services-base:7.0.0] /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:20:5-24:19
-MERGED from [com.android.support:support-v4:22.0.0] /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-drive:7.0.0] /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/7.0.0/AndroidManifest.xml:19:5-20
-MERGED from [com.google.android.gms:play-services-base:7.0.0] /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:20:5-24:19
-MERGED from [com.android.support:support-v4:22.0.0] /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-fitness:7.0.0] /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/7.0.0/AndroidManifest.xml:19:5-20
-MERGED from [com.google.android.gms:play-services-base:7.0.0] /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:20:5-24:19
-MERGED from [com.android.support:support-v4:22.0.0] /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-location:7.0.0] /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/7.0.0/AndroidManifest.xml:19:5-20
-MERGED from [com.google.android.gms:play-services-base:7.0.0] /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:20:5-24:19
-MERGED from [com.android.support:support-v4:22.0.0] /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-maps:7.0.0] /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/7.0.0/AndroidManifest.xml:19:5-20
-MERGED from [com.google.android.gms:play-services-base:7.0.0] /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:20:5-24:19
-MERGED from [com.android.support:support-v4:22.0.0] /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-games:7.0.0] /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/7.0.0/AndroidManifest.xml:19:5-20
-MERGED from [com.google.android.gms:play-services-base:7.0.0] /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:20:5-24:19
-MERGED from [com.android.support:support-v4:22.0.0] /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-drive:7.0.0] /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/7.0.0/AndroidManifest.xml:19:5-20
-MERGED from [com.google.android.gms:play-services-base:7.0.0] /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:20:5-24:19
-MERGED from [com.android.support:support-v4:22.0.0] /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-gcm:7.0.0] /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/7.0.0/AndroidManifest.xml:19:5-20
-MERGED from [com.google.android.gms:play-services-base:7.0.0] /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:20:5-24:19
-MERGED from [com.android.support:support-v4:22.0.0] /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-identity:7.0.0] /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/7.0.0/AndroidManifest.xml:19:5-20
-MERGED from [com.google.android.gms:play-services-base:7.0.0] /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:20:5-24:19
-MERGED from [com.android.support:support-v4:22.0.0] /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-location:7.0.0] /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/7.0.0/AndroidManifest.xml:19:5-20
-MERGED from [com.google.android.gms:play-services-base:7.0.0] /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:20:5-24:19
-MERGED from [com.android.support:support-v4:22.0.0] /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-maps:7.0.0] /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/7.0.0/AndroidManifest.xml:19:5-20
-MERGED from [com.google.android.gms:play-services-base:7.0.0] /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:20:5-24:19
-MERGED from [com.android.support:support-v4:22.0.0] /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-maps:7.0.0] /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/7.0.0/AndroidManifest.xml:19:5-20
-MERGED from [com.google.android.gms:play-services-base:7.0.0] /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:20:5-24:19
-MERGED from [com.android.support:support-v4:22.0.0] /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-nearby:7.0.0] /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/7.0.0/AndroidManifest.xml:19:5-20
-MERGED from [com.google.android.gms:play-services-base:7.0.0] /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:20:5-24:19
-MERGED from [com.android.support:support-v4:22.0.0] /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-panorama:7.0.0] /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/7.0.0/AndroidManifest.xml:19:5-20
-MERGED from [com.google.android.gms:play-services-base:7.0.0] /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:20:5-24:19
-MERGED from [com.android.support:support-v4:22.0.0] /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-plus:7.0.0] /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/7.0.0/AndroidManifest.xml:19:5-20
-MERGED from [com.google.android.gms:play-services-base:7.0.0] /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:20:5-24:19
-MERGED from [com.android.support:support-v4:22.0.0] /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-safetynet:7.0.0] /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/7.0.0/AndroidManifest.xml:19:5-20
-MERGED from [com.google.android.gms:play-services-base:7.0.0] /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:20:5-24:19
-MERGED from [com.android.support:support-v4:22.0.0] /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-wallet:7.0.0] /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/7.0.0/AndroidManifest.xml:19:5-20
-MERGED from [com.google.android.gms:play-services-base:7.0.0] /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:20:5-24:19
-MERGED from [com.android.support:support-v4:22.0.0] /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-identity:7.0.0] /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/7.0.0/AndroidManifest.xml:19:5-20
-MERGED from [com.google.android.gms:play-services-base:7.0.0] /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:20:5-24:19
-MERGED from [com.android.support:support-v4:22.0.0] /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-maps:7.0.0] /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/7.0.0/AndroidManifest.xml:19:5-20
-MERGED from [com.google.android.gms:play-services-base:7.0.0] /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:20:5-24:19
-MERGED from [com.android.support:support-v4:22.0.0] /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-wearable:7.0.0] /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/7.0.0/AndroidManifest.xml:19:5-20
-MERGED from [com.google.android.gms:play-services-base:7.0.0] /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:20:5-24:19
-MERGED from [com.android.support:support-v4:22.0.0] /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/AndroidManifest.xml:22:5-20
+ADDED from /Users/michaelshih/Documents/GitHub/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/src/main/AndroidManifest.xml:16:5-45:19
+MERGED from [com.android.support:appcompat-v7:22.0.0] /Users/michaelshih/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.0.0.aar/066a6e2b1c6a8a7b67e70c6246200038/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:22.0.0] /Users/michaelshih/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.0.0.aar/066a6e2b1c6a8a7b67e70c6246200038/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services:7.0.0] /Users/michaelshih/.gradle/caches/transforms-1/files-1.1/play-services-7.0.0.aar/7ad6b17a51f8ae3fe3fe31b899ca280f/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services:7.0.0] /Users/michaelshih/.gradle/caches/transforms-1/files-1.1/play-services-7.0.0.aar/7ad6b17a51f8ae3fe3fe31b899ca280f/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-ads:7.0.0] /Users/michaelshih/.gradle/caches/transforms-1/files-1.1/play-services-ads-7.0.0.aar/b79254bc9ea2120635bbf21014c5b227/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-ads:7.0.0] /Users/michaelshih/.gradle/caches/transforms-1/files-1.1/play-services-ads-7.0.0.aar/b79254bc9ea2120635bbf21014c5b227/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-analytics:7.0.0] /Users/michaelshih/.gradle/caches/transforms-1/files-1.1/play-services-analytics-7.0.0.aar/98f6f3128b06862d7285a212d5b5838c/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-analytics:7.0.0] /Users/michaelshih/.gradle/caches/transforms-1/files-1.1/play-services-analytics-7.0.0.aar/98f6f3128b06862d7285a212d5b5838c/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-appindexing:7.0.0] /Users/michaelshih/.gradle/caches/transforms-1/files-1.1/play-services-appindexing-7.0.0.aar/fe6610a5e08c21c60ca537fd3b3b9d4b/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-appindexing:7.0.0] /Users/michaelshih/.gradle/caches/transforms-1/files-1.1/play-services-appindexing-7.0.0.aar/fe6610a5e08c21c60ca537fd3b3b9d4b/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-appstate:7.0.0] /Users/michaelshih/.gradle/caches/transforms-1/files-1.1/play-services-appstate-7.0.0.aar/6fa02165ec42a179d810b16eb0404198/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-appstate:7.0.0] /Users/michaelshih/.gradle/caches/transforms-1/files-1.1/play-services-appstate-7.0.0.aar/6fa02165ec42a179d810b16eb0404198/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-cast:7.0.0] /Users/michaelshih/.gradle/caches/transforms-1/files-1.1/play-services-cast-7.0.0.aar/caf7517cc1a7bfbe8efe11264b21395a/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-cast:7.0.0] /Users/michaelshih/.gradle/caches/transforms-1/files-1.1/play-services-cast-7.0.0.aar/caf7517cc1a7bfbe8efe11264b21395a/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-games:7.0.0] /Users/michaelshih/.gradle/caches/transforms-1/files-1.1/play-services-games-7.0.0.aar/297aad912a1faee7871503575af21d95/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-games:7.0.0] /Users/michaelshih/.gradle/caches/transforms-1/files-1.1/play-services-games-7.0.0.aar/297aad912a1faee7871503575af21d95/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-drive:7.0.0] /Users/michaelshih/.gradle/caches/transforms-1/files-1.1/play-services-drive-7.0.0.aar/2e7f84d130d1ba353c0090d8b8a1f7b3/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-drive:7.0.0] /Users/michaelshih/.gradle/caches/transforms-1/files-1.1/play-services-drive-7.0.0.aar/2e7f84d130d1ba353c0090d8b8a1f7b3/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-fitness:7.0.0] /Users/michaelshih/.gradle/caches/transforms-1/files-1.1/play-services-fitness-7.0.0.aar/4b015de12c6a1ab391a2a39d66092e8f/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-fitness:7.0.0] /Users/michaelshih/.gradle/caches/transforms-1/files-1.1/play-services-fitness-7.0.0.aar/4b015de12c6a1ab391a2a39d66092e8f/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-gcm:7.0.0] /Users/michaelshih/.gradle/caches/transforms-1/files-1.1/play-services-gcm-7.0.0.aar/cbf7d86bc9f1c8d1293657ff8dcc44b0/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-gcm:7.0.0] /Users/michaelshih/.gradle/caches/transforms-1/files-1.1/play-services-gcm-7.0.0.aar/cbf7d86bc9f1c8d1293657ff8dcc44b0/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-wallet:7.0.0] /Users/michaelshih/.gradle/caches/transforms-1/files-1.1/play-services-wallet-7.0.0.aar/c2eb46bd8a782157e8aa77c3fffc4b14/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-wallet:7.0.0] /Users/michaelshih/.gradle/caches/transforms-1/files-1.1/play-services-wallet-7.0.0.aar/c2eb46bd8a782157e8aa77c3fffc4b14/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-identity:7.0.0] /Users/michaelshih/.gradle/caches/transforms-1/files-1.1/play-services-identity-7.0.0.aar/cf899b147a11c820ea594dc9fcd1bed9/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-identity:7.0.0] /Users/michaelshih/.gradle/caches/transforms-1/files-1.1/play-services-identity-7.0.0.aar/cf899b147a11c820ea594dc9fcd1bed9/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-location:7.0.0] /Users/michaelshih/.gradle/caches/transforms-1/files-1.1/play-services-location-7.0.0.aar/de80116cddff0601c4ee6f7d7faca9ad/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-location:7.0.0] /Users/michaelshih/.gradle/caches/transforms-1/files-1.1/play-services-location-7.0.0.aar/de80116cddff0601c4ee6f7d7faca9ad/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-maps:7.0.0] /Users/michaelshih/.gradle/caches/transforms-1/files-1.1/play-services-maps-7.0.0.aar/eca544e67878479367c5d85403df03c9/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-maps:7.0.0] /Users/michaelshih/.gradle/caches/transforms-1/files-1.1/play-services-maps-7.0.0.aar/eca544e67878479367c5d85403df03c9/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-nearby:7.0.0] /Users/michaelshih/.gradle/caches/transforms-1/files-1.1/play-services-nearby-7.0.0.aar/a7e9291c0f9f3dcaa0d8ec468ba4907b/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-nearby:7.0.0] /Users/michaelshih/.gradle/caches/transforms-1/files-1.1/play-services-nearby-7.0.0.aar/a7e9291c0f9f3dcaa0d8ec468ba4907b/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-panorama:7.0.0] /Users/michaelshih/.gradle/caches/transforms-1/files-1.1/play-services-panorama-7.0.0.aar/a90362db297835fe1e0b5ce1323c6d35/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-panorama:7.0.0] /Users/michaelshih/.gradle/caches/transforms-1/files-1.1/play-services-panorama-7.0.0.aar/a90362db297835fe1e0b5ce1323c6d35/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-plus:7.0.0] /Users/michaelshih/.gradle/caches/transforms-1/files-1.1/play-services-plus-7.0.0.aar/2ab67b607cb0d17adc2aeb359407990c/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-plus:7.0.0] /Users/michaelshih/.gradle/caches/transforms-1/files-1.1/play-services-plus-7.0.0.aar/2ab67b607cb0d17adc2aeb359407990c/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-safetynet:7.0.0] /Users/michaelshih/.gradle/caches/transforms-1/files-1.1/play-services-safetynet-7.0.0.aar/998e37655381e7ad9e3ed9b934fbd7a4/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-safetynet:7.0.0] /Users/michaelshih/.gradle/caches/transforms-1/files-1.1/play-services-safetynet-7.0.0.aar/998e37655381e7ad9e3ed9b934fbd7a4/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-wearable:7.0.0] /Users/michaelshih/.gradle/caches/transforms-1/files-1.1/play-services-wearable-7.0.0.aar/f5308a0f4a6d75cff0fc7f15afa04f1c/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-wearable:7.0.0] /Users/michaelshih/.gradle/caches/transforms-1/files-1.1/play-services-wearable-7.0.0.aar/f5308a0f4a6d75cff0fc7f15afa04f1c/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-base:7.0.0] /Users/michaelshih/.gradle/caches/transforms-1/files-1.1/play-services-base-7.0.0.aar/dd5b7e61d23260e8feec649eb5912abc/AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-base:7.0.0] /Users/michaelshih/.gradle/caches/transforms-1/files-1.1/play-services-base-7.0.0.aar/dd5b7e61d23260e8feec649eb5912abc/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:22.0.0] /Users/michaelshih/.gradle/caches/transforms-1/files-1.1/support-v4-22.0.0.aar/e10237c28006124dc46b1256140e6eb4/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:22.0.0] /Users/michaelshih/.gradle/caches/transforms-1/files-1.1/support-v4-22.0.0.aar/e10237c28006124dc46b1256140e6eb4/AndroidManifest.xml:22:5-20
 	android:label
-		ADDED from /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/src/main/AndroidManifest.xml:19:9-41
-	android:allowBackup
-		ADDED from /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/src/main/AndroidManifest.xml:17:9-35
+		ADDED from /Users/michaelshih/Documents/GitHub/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/src/main/AndroidManifest.xml:19:9-41
 	android:icon
-		ADDED from /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/src/main/AndroidManifest.xml:18:9-43
+		ADDED from /Users/michaelshih/Documents/GitHub/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/src/main/AndroidManifest.xml:18:9-43
+	android:allowBackup
+		ADDED from /Users/michaelshih/Documents/GitHub/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/src/main/AndroidManifest.xml:17:9-35
 	android:theme
-		ADDED from /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/src/main/AndroidManifest.xml:20:9-40
+		ADDED from /Users/michaelshih/Documents/GitHub/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/src/main/AndroidManifest.xml:20:9-40
 meta-data#com.google.android.gms.version
-ADDED from /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/src/main/AndroidManifest.xml:21:9-23:69
-MERGED from [com.google.android.gms:play-services-base:7.0.0] /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:21:9-23:69
-MERGED from [com.google.android.gms:play-services-base:7.0.0] /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:21:9-23:69
-MERGED from [com.google.android.gms:play-services-base:7.0.0] /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:21:9-23:69
-MERGED from [com.google.android.gms:play-services-base:7.0.0] /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:21:9-23:69
-MERGED from [com.google.android.gms:play-services-base:7.0.0] /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:21:9-23:69
-MERGED from [com.google.android.gms:play-services-base:7.0.0] /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:21:9-23:69
-MERGED from [com.google.android.gms:play-services-base:7.0.0] /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:21:9-23:69
-MERGED from [com.google.android.gms:play-services-base:7.0.0] /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:21:9-23:69
-MERGED from [com.google.android.gms:play-services-base:7.0.0] /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:21:9-23:69
-MERGED from [com.google.android.gms:play-services-base:7.0.0] /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:21:9-23:69
-MERGED from [com.google.android.gms:play-services-base:7.0.0] /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:21:9-23:69
-MERGED from [com.google.android.gms:play-services-base:7.0.0] /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:21:9-23:69
-MERGED from [com.google.android.gms:play-services-base:7.0.0] /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:21:9-23:69
-MERGED from [com.google.android.gms:play-services-base:7.0.0] /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:21:9-23:69
-MERGED from [com.google.android.gms:play-services-base:7.0.0] /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:21:9-23:69
-MERGED from [com.google.android.gms:play-services-base:7.0.0] /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:21:9-23:69
-MERGED from [com.google.android.gms:play-services-base:7.0.0] /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:21:9-23:69
-MERGED from [com.google.android.gms:play-services-base:7.0.0] /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:21:9-23:69
-MERGED from [com.google.android.gms:play-services-base:7.0.0] /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:21:9-23:69
-MERGED from [com.google.android.gms:play-services-base:7.0.0] /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:21:9-23:69
-MERGED from [com.google.android.gms:play-services-base:7.0.0] /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:21:9-23:69
-MERGED from [com.google.android.gms:play-services-base:7.0.0] /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:21:9-23:69
-MERGED from [com.google.android.gms:play-services-base:7.0.0] /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:21:9-23:69
-MERGED from [com.google.android.gms:play-services-base:7.0.0] /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:21:9-23:69
-MERGED from [com.google.android.gms:play-services-base:7.0.0] /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:21:9-23:69
-MERGED from [com.google.android.gms:play-services-base:7.0.0] /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:21:9-23:69
+ADDED from /Users/michaelshih/Documents/GitHub/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/src/main/AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-base:7.0.0] /Users/michaelshih/.gradle/caches/transforms-1/files-1.1/play-services-base-7.0.0.aar/dd5b7e61d23260e8feec649eb5912abc/AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-base:7.0.0] /Users/michaelshih/.gradle/caches/transforms-1/files-1.1/play-services-base-7.0.0.aar/dd5b7e61d23260e8feec649eb5912abc/AndroidManifest.xml:21:9-23:69
 	android:value
-		ADDED from /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/src/main/AndroidManifest.xml:23:13-66
+		ADDED from /Users/michaelshih/Documents/GitHub/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/src/main/AndroidManifest.xml:23:13-66
 	android:name
-		ADDED from /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/src/main/AndroidManifest.xml:22:13-58
+		ADDED from /Users/michaelshih/Documents/GitHub/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/src/main/AndroidManifest.xml:22:13-58
 meta-data#com.google.android.maps.v2.API_KEY
-ADDED from /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/src/main/AndroidManifest.xml:24:9-26:71
+ADDED from /Users/michaelshih/Documents/GitHub/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/src/main/AndroidManifest.xml:24:9-26:71
 	android:value
-		ADDED from /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/src/main/AndroidManifest.xml:26:13-68
+		ADDED from /Users/michaelshih/Documents/GitHub/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/src/main/AndroidManifest.xml:26:13-68
 	android:name
-		ADDED from /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/src/main/AndroidManifest.xml:25:13-62
+		ADDED from /Users/michaelshih/Documents/GitHub/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/src/main/AndroidManifest.xml:25:13-62
 activity#com.example.michael.mapprc.MapsActivity
-ADDED from /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/src/main/AndroidManifest.xml:29:9-37:20
+ADDED from /Users/michaelshih/Documents/GitHub/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/src/main/AndroidManifest.xml:29:9-37:20
 	android:label
-		ADDED from /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/src/main/AndroidManifest.xml:31:13-56
+		ADDED from /Users/michaelshih/Documents/GitHub/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/src/main/AndroidManifest.xml:31:13-56
 	android:name
-		ADDED from /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/src/main/AndroidManifest.xml:30:13-41
-intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/src/main/AndroidManifest.xml:32:13-36:29
+		ADDED from /Users/michaelshih/Documents/GitHub/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/src/main/AndroidManifest.xml:30:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/michaelshih/Documents/GitHub/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/src/main/AndroidManifest.xml:32:13-36:29
 action#android.intent.action.MAIN
-ADDED from /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/src/main/AndroidManifest.xml:33:17-69
+ADDED from /Users/michaelshih/Documents/GitHub/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/src/main/AndroidManifest.xml:33:17-69
 	android:name
-		ADDED from /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/src/main/AndroidManifest.xml:33:25-66
+		ADDED from /Users/michaelshih/Documents/GitHub/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/src/main/AndroidManifest.xml:33:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/src/main/AndroidManifest.xml:35:17-77
+ADDED from /Users/michaelshih/Documents/GitHub/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/src/main/AndroidManifest.xml:35:17-77
 	android:name
-		ADDED from /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/src/main/AndroidManifest.xml:35:27-74
+		ADDED from /Users/michaelshih/Documents/GitHub/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/src/main/AndroidManifest.xml:35:27-74
 activity#com.example.michael.mapprc.StationInfoActivity
-ADDED from /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/src/main/AndroidManifest.xml:38:9-44:20
+ADDED from /Users/michaelshih/Documents/GitHub/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/src/main/AndroidManifest.xml:38:9-44:20
 	android:label
-		ADDED from /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/src/main/AndroidManifest.xml:40:13-64
+		ADDED from /Users/michaelshih/Documents/GitHub/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/src/main/AndroidManifest.xml:40:13-64
 	android:name
-		ADDED from /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/src/main/AndroidManifest.xml:39:13-48
+		ADDED from /Users/michaelshih/Documents/GitHub/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/src/main/AndroidManifest.xml:39:13-48
 meta-data#android.support.PARENT_ACTIVITY
-ADDED from /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/src/main/AndroidManifest.xml:41:13-43:75
+ADDED from /Users/michaelshih/Documents/GitHub/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/src/main/AndroidManifest.xml:41:13-43:75
 	android:value
-		ADDED from /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/src/main/AndroidManifest.xml:43:17-72
+		ADDED from /Users/michaelshih/Documents/GitHub/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/src/main/AndroidManifest.xml:43:17-72
 	android:name
-		ADDED from /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/src/main/AndroidManifest.xml:42:17-63
+		ADDED from /Users/michaelshih/Documents/GitHub/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/src/main/AndroidManifest.xml:42:17-63
 uses-sdk
-INJECTED from /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [com.android.support:appcompat-v7:22.0.0] /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-v4:22.0.0] /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/AndroidManifest.xml:20:5-43
-MERGED from [com.google.android.gms:play-services:7.0.0] /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/7.0.0/AndroidManifest.xml:18:5-42
-MERGED from [com.google.android.gms:play-services-ads:7.0.0] /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.0.0/AndroidManifest.xml:18:5-42
-MERGED from [com.google.android.gms:play-services-base:7.0.0] /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:18:5-42
-MERGED from [com.android.support:support-v4:22.0.0] /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/AndroidManifest.xml:20:5-43
-MERGED from [com.google.android.gms:play-services-analytics:7.0.0] /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/7.0.0/AndroidManifest.xml:18:5-42
-MERGED from [com.google.android.gms:play-services-base:7.0.0] /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:18:5-42
-MERGED from [com.android.support:support-v4:22.0.0] /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/AndroidManifest.xml:20:5-43
-MERGED from [com.google.android.gms:play-services-analytics:7.0.0] /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/7.0.0/AndroidManifest.xml:18:5-42
-MERGED from [com.google.android.gms:play-services-base:7.0.0] /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:18:5-42
-MERGED from [com.android.support:support-v4:22.0.0] /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/AndroidManifest.xml:20:5-43
-MERGED from [com.google.android.gms:play-services-appindexing:7.0.0] /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/7.0.0/AndroidManifest.xml:18:5-42
-MERGED from [com.google.android.gms:play-services-base:7.0.0] /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:18:5-42
-MERGED from [com.android.support:support-v4:22.0.0] /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/AndroidManifest.xml:20:5-43
-MERGED from [com.google.android.gms:play-services-appstate:7.0.0] /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appstate/7.0.0/AndroidManifest.xml:18:5-42
-MERGED from [com.google.android.gms:play-services-base:7.0.0] /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:18:5-42
-MERGED from [com.android.support:support-v4:22.0.0] /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/AndroidManifest.xml:20:5-43
-MERGED from [com.google.android.gms:play-services-base:7.0.0] /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:18:5-42
-MERGED from [com.android.support:support-v4:22.0.0] /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/AndroidManifest.xml:20:5-43
-MERGED from [com.google.android.gms:play-services-cast:7.0.0] /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/7.0.0/AndroidManifest.xml:18:5-42
-MERGED from [com.google.android.gms:play-services-base:7.0.0] /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:18:5-42
-MERGED from [com.android.support:support-v4:22.0.0] /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/AndroidManifest.xml:20:5-43
-MERGED from [com.google.android.gms:play-services-drive:7.0.0] /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/7.0.0/AndroidManifest.xml:18:5-42
-MERGED from [com.google.android.gms:play-services-base:7.0.0] /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:18:5-42
-MERGED from [com.android.support:support-v4:22.0.0] /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/AndroidManifest.xml:20:5-43
-MERGED from [com.google.android.gms:play-services-fitness:7.0.0] /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/7.0.0/AndroidManifest.xml:18:5-42
-MERGED from [com.google.android.gms:play-services-base:7.0.0] /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:18:5-42
-MERGED from [com.android.support:support-v4:22.0.0] /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/AndroidManifest.xml:20:5-43
-MERGED from [com.google.android.gms:play-services-location:7.0.0] /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/7.0.0/AndroidManifest.xml:18:5-42
-MERGED from [com.google.android.gms:play-services-base:7.0.0] /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:18:5-42
-MERGED from [com.android.support:support-v4:22.0.0] /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/AndroidManifest.xml:20:5-43
-MERGED from [com.google.android.gms:play-services-maps:7.0.0] /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/7.0.0/AndroidManifest.xml:18:5-42
-MERGED from [com.google.android.gms:play-services-base:7.0.0] /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:18:5-42
-MERGED from [com.android.support:support-v4:22.0.0] /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/AndroidManifest.xml:20:5-43
-MERGED from [com.google.android.gms:play-services-games:7.0.0] /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/7.0.0/AndroidManifest.xml:18:5-42
-MERGED from [com.google.android.gms:play-services-base:7.0.0] /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:18:5-42
-MERGED from [com.android.support:support-v4:22.0.0] /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/AndroidManifest.xml:20:5-43
-MERGED from [com.google.android.gms:play-services-drive:7.0.0] /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/7.0.0/AndroidManifest.xml:18:5-42
-MERGED from [com.google.android.gms:play-services-base:7.0.0] /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:18:5-42
-MERGED from [com.android.support:support-v4:22.0.0] /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/AndroidManifest.xml:20:5-43
-MERGED from [com.google.android.gms:play-services-gcm:7.0.0] /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/7.0.0/AndroidManifest.xml:18:5-42
-MERGED from [com.google.android.gms:play-services-base:7.0.0] /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:18:5-42
-MERGED from [com.android.support:support-v4:22.0.0] /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/AndroidManifest.xml:20:5-43
-MERGED from [com.google.android.gms:play-services-identity:7.0.0] /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/7.0.0/AndroidManifest.xml:18:5-42
-MERGED from [com.google.android.gms:play-services-base:7.0.0] /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:18:5-42
-MERGED from [com.android.support:support-v4:22.0.0] /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/AndroidManifest.xml:20:5-43
-MERGED from [com.google.android.gms:play-services-location:7.0.0] /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/7.0.0/AndroidManifest.xml:18:5-42
-MERGED from [com.google.android.gms:play-services-base:7.0.0] /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:18:5-42
-MERGED from [com.android.support:support-v4:22.0.0] /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/AndroidManifest.xml:20:5-43
-MERGED from [com.google.android.gms:play-services-maps:7.0.0] /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/7.0.0/AndroidManifest.xml:18:5-42
-MERGED from [com.google.android.gms:play-services-base:7.0.0] /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:18:5-42
-MERGED from [com.android.support:support-v4:22.0.0] /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/AndroidManifest.xml:20:5-43
-MERGED from [com.google.android.gms:play-services-maps:7.0.0] /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/7.0.0/AndroidManifest.xml:18:5-42
-MERGED from [com.google.android.gms:play-services-base:7.0.0] /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:18:5-42
-MERGED from [com.android.support:support-v4:22.0.0] /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/AndroidManifest.xml:20:5-43
-MERGED from [com.google.android.gms:play-services-nearby:7.0.0] /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/7.0.0/AndroidManifest.xml:18:5-42
-MERGED from [com.google.android.gms:play-services-base:7.0.0] /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:18:5-42
-MERGED from [com.android.support:support-v4:22.0.0] /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/AndroidManifest.xml:20:5-43
-MERGED from [com.google.android.gms:play-services-panorama:7.0.0] /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/7.0.0/AndroidManifest.xml:18:5-42
-MERGED from [com.google.android.gms:play-services-base:7.0.0] /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:18:5-42
-MERGED from [com.android.support:support-v4:22.0.0] /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/AndroidManifest.xml:20:5-43
-MERGED from [com.google.android.gms:play-services-plus:7.0.0] /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/7.0.0/AndroidManifest.xml:18:5-42
-MERGED from [com.google.android.gms:play-services-base:7.0.0] /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:18:5-42
-MERGED from [com.android.support:support-v4:22.0.0] /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/AndroidManifest.xml:20:5-43
-MERGED from [com.google.android.gms:play-services-safetynet:7.0.0] /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/7.0.0/AndroidManifest.xml:18:5-42
-MERGED from [com.google.android.gms:play-services-base:7.0.0] /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:18:5-42
-MERGED from [com.android.support:support-v4:22.0.0] /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/AndroidManifest.xml:20:5-43
-MERGED from [com.google.android.gms:play-services-wallet:7.0.0] /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/7.0.0/AndroidManifest.xml:18:5-42
-MERGED from [com.google.android.gms:play-services-base:7.0.0] /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:18:5-42
-MERGED from [com.android.support:support-v4:22.0.0] /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/AndroidManifest.xml:20:5-43
-MERGED from [com.google.android.gms:play-services-identity:7.0.0] /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/7.0.0/AndroidManifest.xml:18:5-42
-MERGED from [com.google.android.gms:play-services-base:7.0.0] /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:18:5-42
-MERGED from [com.android.support:support-v4:22.0.0] /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/AndroidManifest.xml:20:5-43
-MERGED from [com.google.android.gms:play-services-maps:7.0.0] /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/7.0.0/AndroidManifest.xml:18:5-42
-MERGED from [com.google.android.gms:play-services-base:7.0.0] /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:18:5-42
-MERGED from [com.android.support:support-v4:22.0.0] /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/AndroidManifest.xml:20:5-43
-MERGED from [com.google.android.gms:play-services-wearable:7.0.0] /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/7.0.0/AndroidManifest.xml:18:5-42
-MERGED from [com.google.android.gms:play-services-base:7.0.0] /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:18:5-42
-MERGED from [com.android.support:support-v4:22.0.0] /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/AndroidManifest.xml:20:5-43
+INJECTED from /Users/michaelshih/Documents/GitHub/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/michaelshih/Documents/GitHub/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/src/main/AndroidManifest.xml
+INJECTED from /Users/michaelshih/Documents/GitHub/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:22.0.0] /Users/michaelshih/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.0.0.aar/066a6e2b1c6a8a7b67e70c6246200038/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:22.0.0] /Users/michaelshih/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.0.0.aar/066a6e2b1c6a8a7b67e70c6246200038/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services:7.0.0] /Users/michaelshih/.gradle/caches/transforms-1/files-1.1/play-services-7.0.0.aar/7ad6b17a51f8ae3fe3fe31b899ca280f/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services:7.0.0] /Users/michaelshih/.gradle/caches/transforms-1/files-1.1/play-services-7.0.0.aar/7ad6b17a51f8ae3fe3fe31b899ca280f/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-ads:7.0.0] /Users/michaelshih/.gradle/caches/transforms-1/files-1.1/play-services-ads-7.0.0.aar/b79254bc9ea2120635bbf21014c5b227/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-ads:7.0.0] /Users/michaelshih/.gradle/caches/transforms-1/files-1.1/play-services-ads-7.0.0.aar/b79254bc9ea2120635bbf21014c5b227/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-analytics:7.0.0] /Users/michaelshih/.gradle/caches/transforms-1/files-1.1/play-services-analytics-7.0.0.aar/98f6f3128b06862d7285a212d5b5838c/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-analytics:7.0.0] /Users/michaelshih/.gradle/caches/transforms-1/files-1.1/play-services-analytics-7.0.0.aar/98f6f3128b06862d7285a212d5b5838c/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-appindexing:7.0.0] /Users/michaelshih/.gradle/caches/transforms-1/files-1.1/play-services-appindexing-7.0.0.aar/fe6610a5e08c21c60ca537fd3b3b9d4b/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-appindexing:7.0.0] /Users/michaelshih/.gradle/caches/transforms-1/files-1.1/play-services-appindexing-7.0.0.aar/fe6610a5e08c21c60ca537fd3b3b9d4b/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-appstate:7.0.0] /Users/michaelshih/.gradle/caches/transforms-1/files-1.1/play-services-appstate-7.0.0.aar/6fa02165ec42a179d810b16eb0404198/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-appstate:7.0.0] /Users/michaelshih/.gradle/caches/transforms-1/files-1.1/play-services-appstate-7.0.0.aar/6fa02165ec42a179d810b16eb0404198/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-cast:7.0.0] /Users/michaelshih/.gradle/caches/transforms-1/files-1.1/play-services-cast-7.0.0.aar/caf7517cc1a7bfbe8efe11264b21395a/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-cast:7.0.0] /Users/michaelshih/.gradle/caches/transforms-1/files-1.1/play-services-cast-7.0.0.aar/caf7517cc1a7bfbe8efe11264b21395a/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-games:7.0.0] /Users/michaelshih/.gradle/caches/transforms-1/files-1.1/play-services-games-7.0.0.aar/297aad912a1faee7871503575af21d95/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-games:7.0.0] /Users/michaelshih/.gradle/caches/transforms-1/files-1.1/play-services-games-7.0.0.aar/297aad912a1faee7871503575af21d95/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-drive:7.0.0] /Users/michaelshih/.gradle/caches/transforms-1/files-1.1/play-services-drive-7.0.0.aar/2e7f84d130d1ba353c0090d8b8a1f7b3/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-drive:7.0.0] /Users/michaelshih/.gradle/caches/transforms-1/files-1.1/play-services-drive-7.0.0.aar/2e7f84d130d1ba353c0090d8b8a1f7b3/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-fitness:7.0.0] /Users/michaelshih/.gradle/caches/transforms-1/files-1.1/play-services-fitness-7.0.0.aar/4b015de12c6a1ab391a2a39d66092e8f/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-fitness:7.0.0] /Users/michaelshih/.gradle/caches/transforms-1/files-1.1/play-services-fitness-7.0.0.aar/4b015de12c6a1ab391a2a39d66092e8f/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-gcm:7.0.0] /Users/michaelshih/.gradle/caches/transforms-1/files-1.1/play-services-gcm-7.0.0.aar/cbf7d86bc9f1c8d1293657ff8dcc44b0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-gcm:7.0.0] /Users/michaelshih/.gradle/caches/transforms-1/files-1.1/play-services-gcm-7.0.0.aar/cbf7d86bc9f1c8d1293657ff8dcc44b0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-wallet:7.0.0] /Users/michaelshih/.gradle/caches/transforms-1/files-1.1/play-services-wallet-7.0.0.aar/c2eb46bd8a782157e8aa77c3fffc4b14/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-wallet:7.0.0] /Users/michaelshih/.gradle/caches/transforms-1/files-1.1/play-services-wallet-7.0.0.aar/c2eb46bd8a782157e8aa77c3fffc4b14/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-identity:7.0.0] /Users/michaelshih/.gradle/caches/transforms-1/files-1.1/play-services-identity-7.0.0.aar/cf899b147a11c820ea594dc9fcd1bed9/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-identity:7.0.0] /Users/michaelshih/.gradle/caches/transforms-1/files-1.1/play-services-identity-7.0.0.aar/cf899b147a11c820ea594dc9fcd1bed9/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-location:7.0.0] /Users/michaelshih/.gradle/caches/transforms-1/files-1.1/play-services-location-7.0.0.aar/de80116cddff0601c4ee6f7d7faca9ad/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-location:7.0.0] /Users/michaelshih/.gradle/caches/transforms-1/files-1.1/play-services-location-7.0.0.aar/de80116cddff0601c4ee6f7d7faca9ad/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-maps:7.0.0] /Users/michaelshih/.gradle/caches/transforms-1/files-1.1/play-services-maps-7.0.0.aar/eca544e67878479367c5d85403df03c9/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-maps:7.0.0] /Users/michaelshih/.gradle/caches/transforms-1/files-1.1/play-services-maps-7.0.0.aar/eca544e67878479367c5d85403df03c9/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-nearby:7.0.0] /Users/michaelshih/.gradle/caches/transforms-1/files-1.1/play-services-nearby-7.0.0.aar/a7e9291c0f9f3dcaa0d8ec468ba4907b/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-nearby:7.0.0] /Users/michaelshih/.gradle/caches/transforms-1/files-1.1/play-services-nearby-7.0.0.aar/a7e9291c0f9f3dcaa0d8ec468ba4907b/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-panorama:7.0.0] /Users/michaelshih/.gradle/caches/transforms-1/files-1.1/play-services-panorama-7.0.0.aar/a90362db297835fe1e0b5ce1323c6d35/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-panorama:7.0.0] /Users/michaelshih/.gradle/caches/transforms-1/files-1.1/play-services-panorama-7.0.0.aar/a90362db297835fe1e0b5ce1323c6d35/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-plus:7.0.0] /Users/michaelshih/.gradle/caches/transforms-1/files-1.1/play-services-plus-7.0.0.aar/2ab67b607cb0d17adc2aeb359407990c/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-plus:7.0.0] /Users/michaelshih/.gradle/caches/transforms-1/files-1.1/play-services-plus-7.0.0.aar/2ab67b607cb0d17adc2aeb359407990c/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-safetynet:7.0.0] /Users/michaelshih/.gradle/caches/transforms-1/files-1.1/play-services-safetynet-7.0.0.aar/998e37655381e7ad9e3ed9b934fbd7a4/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-safetynet:7.0.0] /Users/michaelshih/.gradle/caches/transforms-1/files-1.1/play-services-safetynet-7.0.0.aar/998e37655381e7ad9e3ed9b934fbd7a4/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-wearable:7.0.0] /Users/michaelshih/.gradle/caches/transforms-1/files-1.1/play-services-wearable-7.0.0.aar/f5308a0f4a6d75cff0fc7f15afa04f1c/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-wearable:7.0.0] /Users/michaelshih/.gradle/caches/transforms-1/files-1.1/play-services-wearable-7.0.0.aar/f5308a0f4a6d75cff0fc7f15afa04f1c/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:7.0.0] /Users/michaelshih/.gradle/caches/transforms-1/files-1.1/play-services-base-7.0.0.aar/dd5b7e61d23260e8feec649eb5912abc/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:7.0.0] /Users/michaelshih/.gradle/caches/transforms-1/files-1.1/play-services-base-7.0.0.aar/dd5b7e61d23260e8feec649eb5912abc/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:22.0.0] /Users/michaelshih/.gradle/caches/transforms-1/files-1.1/support-v4-22.0.0.aar/e10237c28006124dc46b1256140e6eb4/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:22.0.0] /Users/michaelshih/.gradle/caches/transforms-1/files-1.1/support-v4-22.0.0.aar/e10237c28006124dc46b1256140e6eb4/AndroidManifest.xml:20:5-43
+INJECTED from /Users/michaelshih/Documents/GitHub/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/src/main/AndroidManifest.xml
+INJECTED from /Users/michaelshih/Documents/GitHub/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/src/main/AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/michaelshih/Documents/GitHub/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/src/main/AndroidManifest.xml
+		ADDED from /Users/michaelshih/Documents/GitHub/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/michaelshih/Documents/GitHub/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/shihsunnia/Documents/Android_Project/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/michaelshih/Documents/GitHub/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/src/main/AndroidManifest.xml
+		ADDED from /Users/michaelshih/Documents/GitHub/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/michaelshih/Documents/GitHub/CPC_HYS_mapprc/android/CPC_HYS_mapprc/app/src/main/AndroidManifest.xml
