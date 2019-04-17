@@ -3,14 +3,14 @@ apply plugin: 'com.android.application'
 android {
     signingConfigs {
         config {
-            keyAlias 'sunnia'
-            keyPassword 'sca0819'
-            storeFile file('/Users/shihsunnia/Documents/SunniaKey.jks')
-            storePassword 'sca0819'
+            keyAlias 'sampleAlias'
+            keyPassword 'ji32k7au4a83'
+            storeFile file('/Users/michaelshih/Documents/SunniaKey.jks')
+            storePassword 'ji32k7au4a83'
         }
     }
     compileSdkVersion 22
-    buildToolsVersion '27.0.3'
+    buildToolsVersion '28.0.3'
     defaultConfig {
         applicationId "com.example.michael.mapprc"
         minSdkVersion 15
